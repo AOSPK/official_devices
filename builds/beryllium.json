@@ -8,6 +8,14 @@
       "size": 892734945,
       "android": "11",
       "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/AOSPK-11-20201212-0133-beryllium.zip"
+    },
+    {
+      "datetime": "1608123043",
+      "filename": "AOSPK-11-20201216-0953-beryllium.zip",
+      "id": "d4443c5ffb6ef07ce74553606ad0f5fb",
+      "size": "1059869429",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/AOSPK-11-20201216-0953-beryllium.zip",
+      "android": "11"
     }
   ]
 }

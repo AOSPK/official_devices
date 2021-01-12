@@ -30,6 +30,36 @@
       "active": true
    },
    {
+      "brand": "Samsung",
+      "name": "Galaxy Note 9",
+      "codename": "crownqltechn",
+      "maintainer_name": "Nyoutaaa",
+      "maintainer_xda": "https://forum.xda-developers.com/member.php?u=10467859",
+      "maintainer_country": "BR",
+      "xda_thread": "",
+      "active": true
+   },
+   {
+      "brand": "Samsung",
+      "name": "Galaxy S9",
+      "codename": "starqltechn",
+      "maintainer_name": "Nyoutaaa",
+      "maintainer_xda": "https://forum.xda-developers.com/member.php?u=10467859",
+      "maintainer_country": "BR",
+      "xda_thread": "",
+      "active": true
+   },
+   {
+      "brand": "Samsung",
+      "name": "Galaxy S9+",
+      "codename": "star2qltechn",
+      "maintainer_name": "Nyoutaaa",
+      "maintainer_xda": "https://forum.xda-developers.com/member.php?u=10467859",
+      "maintainer_country": "BR",
+      "xda_thread": "",
+      "active": true
+   },
+   {
       "brand": "Xiaomi",
       "name": "Poco F1",
       "codename": "beryllium",
@@ -37,16 +67,6 @@
       "maintainer_xda": "https://forum.xda-developers.com/member.php?u=8414586",
       "maintainer_country": "BR",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
-      "active": true
-   },
-   {
-      "brand": "Xiaomi",
-      "name": "Redmi Note 8/8T",
-      "codename": "ginkgo",
-      "maintainer_name": "AndrielFR",
-      "maintainer_xda": "https://forum.xda-developers.com/member.php?u=10476617/",
-      "maintainer_country": "BR",
-      "xda_thread": "",
       "active": true
    }
 ]

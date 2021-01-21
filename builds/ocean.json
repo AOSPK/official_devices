@@ -2,18 +2,18 @@
   "response": [
     {
       "datetime": "1608141178",
-      "filename": "AOSPK-11-20201216-1855-ocean.zip",
+      "filename": "Kraken-11-20201216-1855-ocean.zip",
       "id": "cbac4bfc8c7f2bd5e924258df0b6c8df",
       "size": 813543707,
-      "url": "https://master.dl.sourceforge.net/project/aospk/ocean/AOSPK-11-20201216-1855-ocean.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-20201216-1855-ocean.zip",
       "android": "11"
     },
     {
         "datetime": "1610908441",
-        "filename": "AOSPK-11-20210117-1835-ocean.zip",
+        "filename": "Kraken-11-20210117-1835-ocean.zip",
         "id": "03ff555dcff972c1d452c73608de10b6",
         "size": "833031385",
-        "url": "https://master.dl.sourceforge.net/project/aospk/ocean/AOSPK-11-20210117-1835-ocean.zip",
+        "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-20210117-1835-ocean.zip",
         "android": "11"
       }
   ]

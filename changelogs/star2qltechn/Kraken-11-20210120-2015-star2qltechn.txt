@@ -1,3 +1,0 @@
-January security patch
-Enable ZRAM
-Fix SafetyNet

@@ -78,5 +78,15 @@
       "maintainer_country":"BR",
       "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
       "active":true
+   },
+   {
+      "brand":"Xiaomi",
+      "name":"Redmi Note 7",
+      "codename":"lavender",
+      "maintainer_name":"Omar Hamad",
+      "maintainer_xda":"https://forum.xda-developers.com/m/etahamad.9338584",
+      "maintainer_country":"EG",
+      "xda_thread":"https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
+      "active":true
    }
 ]

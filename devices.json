@@ -1,16 +1,6 @@
 [
    {
       "brand":"Motorola",
-      "name":"Moto G5 Plus",
-      "codename":"potter",
-      "maintainer_name":"zjrdroid",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=7233293",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":false
-   },
-   {
-      "brand":"Motorola",
       "name":"Moto G7",
       "codename":"river",
       "maintainer_name":"vulkan-ops",
@@ -35,36 +25,6 @@
       "codename":"lake",
       "maintainer_name":"Jorge Lucas",
       "maintainer_xda":"https://forum.xda-developers.com/m/jorge-lucas.9604887",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy Note 9",
-      "codename":"crownqltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=10467859",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy S9",
-      "codename":"starqltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=10467859",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy S9+",
-      "codename":"star2qltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=10467859",
       "maintainer_country":"BR",
       "xda_thread":"",
       "active":true

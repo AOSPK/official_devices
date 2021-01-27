@@ -7,6 +7,14 @@
       "size":"1134927248",
       "url":"https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210121-2229-lavender.zip",
       "android":"11"
+    },
+    {
+      "datetime":"1611741306",
+      "filename":"Kraken-11-20210127-0657-lavender.zip",
+      "id":"383d3a05ef7e3b97dc86b1f1070948d5",
+      "size":"1132057107",
+      "url":"https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210127-0657-lavender.zip",
+      "android":"11"
     }
   ]
 }

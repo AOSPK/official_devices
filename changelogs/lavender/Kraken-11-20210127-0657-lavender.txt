@@ -1,0 +1,2 @@
+Fixed Netflix crash but L3
+Minor improvements under source and device tree

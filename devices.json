@@ -48,5 +48,15 @@
       "maintainer_country":"EG",
       "xda_thread":"https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
       "active":true
+   },
+   {
+      "brand":"Xiaomi",
+      "name":"Redmi Note 8/8T",
+      "codename":"ginkgo",
+      "maintainer_name":"ZezinhoRey",
+      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=",
+      "maintainer_country":"BR",
+      "xda_thread":"",
+      "active":true
    }
 ]

@@ -24,6 +24,14 @@
       "size": "1086471193",
       "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20210118-0350-beryllium.zip",
       "android": "11"
+    },
+    {
+      "datetime":"1612494178",
+      "filename":"Kraken-11-20210205-0004-beryllium.zip",
+      "id":"80b4f6e1ebb61a7f242d79ee05e75305",
+      "size":"1091853014",
+      "url":"https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20210205-0004-beryllium.zip",
+      "android":"11"
     }
   ]
 }

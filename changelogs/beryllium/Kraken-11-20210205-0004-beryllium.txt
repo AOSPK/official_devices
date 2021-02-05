@@ -1,0 +1,2 @@
+Upstream to latest linux tag
+New strings translation

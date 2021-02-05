@@ -1,0 +1,13 @@
+February Security Patch
+Updated kernel to Predator EAS X4.4 - 4.4.255
+Updated fingerprint to Redfin - RQ1A.210205.004
+Using QCOM_WLAN HAL instead of AOSP now
+Configure SQLite to operate in MEMORY mode
+Dropped Thermal from DeviceSettings
+Reduced ScreenShot delay to 0s
+Redesigned FPS Info
+Added Chrome (just a source note)
+Minor improvements (stabilizing)
+
+Note:
+CTS Passed by default, but if you installed Magisk you must enable Magisk Hide to Pass it.

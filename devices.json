@@ -30,6 +30,36 @@
       "active":true
    },
    {
+      "brand":"Samsung",
+      "name":"Galaxy S9",
+      "codename":"starqltechn",
+      "maintainer_name":"Nyoutaaa",
+      "maintainer_xda":"",
+      "maintainer_country":"BR",
+      "xda_thread":"",
+      "active":true
+   },
+   {
+      "brand":"Samsung",
+      "name":"Galaxy S9+",
+      "codename":"star2qltechn",
+      "maintainer_name":"Nyoutaaa",
+      "maintainer_xda":"",
+      "maintainer_country":"BR",
+      "xda_thread":"",
+      "active":true
+   },
+   {
+      "brand":"Samsung",
+      "name":"Galaxy Note 9",
+      "codename":"crownqltechn",
+      "maintainer_name":"Nyoutaaa",
+      "maintainer_xda":"",
+      "maintainer_country":"BR",
+      "xda_thread":"",
+      "active":true
+   },
+   {
       "brand":"Xiaomi",
       "name":"Poco F1",
       "codename":"beryllium",

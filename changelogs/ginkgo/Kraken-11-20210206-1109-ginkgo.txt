@@ -1,0 +1,4 @@
+*February Security Patch
+*Kernel upstreamed to 4.14.219
+*Tree and trinket updates were made
+*APNs now are setted automatically

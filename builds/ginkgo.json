@@ -7,6 +7,14 @@
       "size":"1100071142",
       "url":"https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-20210203-1706-ginkgo.zip",
       "android":"11"
+    },
+    {
+      "datetime":"1612620586",
+      "filename":"Kraken-11-20210206-1109-ginkgo.zip",
+      "id":"5f0725c847a01d57d652438784796123",
+      "size":"1196780940",
+      "url":"https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-20210206-1109-ginkgo.zip",
+      "android":"11"
     }
   ]
 }

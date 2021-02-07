@@ -32,6 +32,24 @@
       "size":"1091853014",
       "url":"https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20210205-0004-beryllium.zip",
       "android":"11"
+    },
+    {
+      "datetime":"1612676579",
+      "filename":"Kraken-11-Vanilla-20210207-0245-beryllium.zip",
+      "id":"2bbdce6e9b8c5d83f69244f19316d91b",
+      "size":"802577896",
+      "url":"https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-Vanilla-20210207-0245-beryllium.zip",
+      "type":"Vanilla",
+      "android":"11"
+    },
+    {
+      "datetime":"1612674164",
+      "filename":"Kraken-11-GApps-20210207-0202-beryllium.zip",
+      "id":"f8ac42e28874e97a45e5ace5a0efc315",
+      "size":"1129424215",
+      "url":"https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20210207-0202-beryllium.zip",
+      "type":"GApps",
+      "android":"11"
     }
   ]
 }

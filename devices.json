@@ -88,5 +88,15 @@
       "maintainer_country":"BR",
       "xda_thread":"",
       "active":true
+   },
+   {
+      "brand":"Xiaomi",
+      "name":"Redmi Note 9 Pro (Global)",
+      "codename":"joyeuse",
+      "maintainer_name":"Curse",
+      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=",
+      "maintainer_country":"ID",
+      "xda_thread":"",
+      "active":true
    }
 ]

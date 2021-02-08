@@ -7,6 +7,24 @@
       "size":"1100071142",
       "url":"https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-20210203-1706-ginkgo.zip",
       "android":"11"
+    },
+     {
+      "datetime":"1612737576",
+      "filename":"Kraken-11-GApps-20210207-1939-ginkgo.zip",
+      "id":"05e6bb63962ac0247ecfaaf6202a6e64",
+      "size":"1231262509",
+      "url":"https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210207-1939-ginkgo.zip",
+      "type":"GApps",
+      "android":"11"
+    },
+    {
+      "datetime":"1612741729",
+      "filename":"Kraken-11-Vanilla-20210207-2050-ginkgo.zip",
+      "id":"270072a12d2eefe46ec552000f98bb5f",
+      "size":"907073612",
+      "url":"https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-Vanilla-20210207-2050-ginkgo.zip",
+      "type":"Vanilla",
+      "android":"11"
     }
   ]
 }

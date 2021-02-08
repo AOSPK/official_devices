@@ -1,0 +1,4 @@
+*Updated tree 
+*Kernel upstreamed to 4.14.219
+*Some bug fixes
+*Now Gapps and Vanilla are available

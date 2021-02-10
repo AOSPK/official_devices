@@ -6,7 +6,7 @@
       "id": "18c32342f42c9af26cbd02b05423b83c",
       "size": 815215008,
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-20201216-2216-river.zip",
-      "type":"GApps",
+      "type": "GApps",
       "android": "11"
     },
     {
@@ -15,7 +15,16 @@
       "id": "0967c06e5fea42312543d09eddfa1ce1",
       "size": "834922498",
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-20210117-2201-river.zip",
-      "type":"GApps",
+      "type": "GApps",
+      "android": "11"
+    },
+    {
+      "datetime": "1612918061",
+      "filename": "Kraken-11-GApps-20210209-2149-river.zip",
+      "id": "d9d7c7c8cb331712701a09f5bdf920aa",
+      "size": "865949100",
+      "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20210209-2149-river.zip",
+      "type": "GApps",
       "android": "11"
     }
   ]

@@ -17,6 +17,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-20210117-2201-river.zip",
       "type":"GApps",
       "android": "11"
-    }
+    },
+    {
+  "datetime":"1612918061",
+  "filename":"Kraken-11-GApps-20210209-2149-river.zip",
+  "id":"d9d7c7c8cb331712701a09f5bdf920aa",
+  "size":"865949100",
+  "url":"https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20210209-2149-river.zip",
+  "type":"GApps",
+  "android":"11"
+}
   ]
 }

@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime":"1612803024",
-      "filename":"Kraken-11-GApps-20210208-1352-lmi.zip",
-      "id":"c215d54d2a432dfc15799812d917acd3",
-      "size":"989396436",
-      "url":"https://master.dl.sourceforge.net/project/aospk/lmi/Kraken-11-GApps-20210208-1352-lmi.zip",
-      "type":"GApps",
-      "android":"11"
+      "datetime": "1612803024",
+      "filename": "Kraken-11-GApps-20210208-1352-lmi.zip",
+      "id": "c215d54d2a432dfc15799812d917acd3",
+      "size": "989396436",
+      "url": "https://master.dl.sourceforge.net/project/aospk/lmi/Kraken-11-GApps-20210208-1352-lmi.zip",
+      "type": "GApps",
+      "android": "11"
     }
   ]
 }

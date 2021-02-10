@@ -1,112 +1,112 @@
 [
-   {
-      "brand":"Motorola",
-      "name":"Moto G7",
-      "codename":"river",
-      "maintainer_name":"vulkan-ops",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=11153911",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Motorola",
-      "name":"Moto G7 Power",
-      "codename":"ocean",
-      "maintainer_name":"vulkan-ops",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=11153911",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Motorola",
-      "name":"Moto G7 Plus",
-      "codename":"lake",
-      "maintainer_name":"Jorge Lucas",
-      "maintainer_xda":"https://forum.xda-developers.com/m/jorge-lucas.9604887",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy S9",
-      "codename":"starqltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy S9+",
-      "codename":"star2qltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Samsung",
-      "name":"Galaxy Note 9",
-      "codename":"crownqltechn",
-      "maintainer_name":"Nyoutaaa",
-      "maintainer_xda":"",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Poco F1",
-      "codename":"beryllium",
-      "maintainer_name":"mamutal91",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=8414586",
-      "maintainer_country":"BR",
-      "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
-      "active":true
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Poco F2 Pro",
-      "codename":"lmi",
-      "maintainer_name":"mamutal91",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=8414586",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Redmi Note 7",
-      "codename":"lavender",
-      "maintainer_name":"Omar Hamad",
-      "maintainer_xda":"https://forum.xda-developers.com/m/etahamad.9338584",
-      "maintainer_country":"EG",
-      "xda_thread":"https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
-      "active":true
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Redmi Note 8/8T",
-      "codename":"ginkgo",
-      "maintainer_name":"ZezinhoRey",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=",
-      "maintainer_country":"BR",
-      "xda_thread":"",
-      "active":true
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Redmi Note 9 Pro (Global)",
-      "codename":"joyeuse",
-      "maintainer_name":"Curse",
-      "maintainer_xda":"https://forum.xda-developers.com/member.php?u=",
-      "maintainer_country":"ID",
-      "xda_thread":"",
-      "active":true
-   }
+  {
+    "brand": "Motorola",
+    "name": "Moto G7",
+    "codename": "river",
+    "maintainer_name": "vulkan-ops",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=11153911",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7 Power",
+    "codename": "ocean",
+    "maintainer_name": "vulkan-ops",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=11153911",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7 Plus",
+    "codename": "lake",
+    "maintainer_name": "Jorge Lucas",
+    "maintainer_xda": "https://forum.xda-developers.com/m/jorge-lucas.9604887",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S9",
+    "codename": "starqltechn",
+    "maintainer_name": "Nyoutaaa",
+    "maintainer_xda": "",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S9+",
+    "codename": "star2qltechn",
+    "maintainer_name": "Nyoutaaa",
+    "maintainer_xda": "",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note 9",
+    "codename": "crownqltechn",
+    "maintainer_name": "Nyoutaaa",
+    "maintainer_xda": "",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco F1",
+    "codename": "beryllium",
+    "maintainer_name": "mamutal91",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=8414586",
+    "maintainer_country": "BR",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco F2 Pro",
+    "codename": "lmi",
+    "maintainer_name": "mamutal91",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=8414586",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 7",
+    "codename": "lavender",
+    "maintainer_name": "Omar Hamad",
+    "maintainer_xda": "https://forum.xda-developers.com/m/etahamad.9338584",
+    "maintainer_country": "EG",
+    "xda_thread": "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 8/8T",
+    "codename": "ginkgo",
+    "maintainer_name": "ZezinhoRey",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 9 Pro (Global)",
+    "codename": "joyeuse",
+    "maintainer_name": "Curse",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=",
+    "maintainer_country": "ID",
+    "xda_thread": "",
+    "active": true
+  }
 ]

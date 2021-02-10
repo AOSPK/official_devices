@@ -1,12 +1,13 @@
  {
   "response": [
     {
-      "datetime":"1611189325",
-      "filename":"AOSPK-11-20210120-2136-crownqltechn.zip",
-      "id":"d168b881523eb8140235fb7a3ecf5478",
-      "size":"854475875",
-      "url":"https://master.dl.sourceforge.net/project/aospk/crownqltechn/AOSPK-11-20210120-2136-crownqltechn.zip",
+      "datetime":"1612980742",
+      "filename":"Kraken-11-GApps-20210210-1514-crownqltechn.zip", ]
+      "id":"3c9a265c9d50b8333678669738b27346",}
+      "size":"890996930",
+      "url":"https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210210-1514-crownqltechn.zip",
+      "type":"GApps",
       "android":"11"
     }
-  ]
-}
+   ]
+ }

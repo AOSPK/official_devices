@@ -6,6 +6,7 @@
       "id":"ab5c61784fe3e3af5be9cdace28dbea9",
       "size":"1134927248",
       "url":"https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210121-2229-lavender.zip",
+      "type":"GApps",
       "android":"11"
     },
     {
@@ -14,6 +15,7 @@
       "id":"383d3a05ef7e3b97dc86b1f1070948d5",
       "size":"1132057107",
       "url":"https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210127-0657-lavender.zip",
+      "type":"GApps",
       "android":"11"
     },
     {
@@ -22,6 +24,7 @@
       "id":"c529ff49bf44336116fb7492319c0d96",
       "size":"1153980939",
       "url":"https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210205-1332-lavender.zip",
+      "type":"GApps",
       "android":"11"
     },
     {

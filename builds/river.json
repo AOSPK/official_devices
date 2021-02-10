@@ -6,6 +6,7 @@
       "id": "18c32342f42c9af26cbd02b05423b83c",
       "size": 815215008,
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-20201216-2216-river.zip",
+      "type":"GApps",
       "android": "11"
     },
     {
@@ -14,6 +15,7 @@
       "id": "0967c06e5fea42312543d09eddfa1ce1",
       "size": "834922498",
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-20210117-2201-river.zip",
+      "type":"GApps",
       "android": "11"
     }
   ]

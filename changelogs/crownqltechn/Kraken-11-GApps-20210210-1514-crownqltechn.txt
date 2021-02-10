@@ -1,0 +1,3 @@
+Fixed google sync bug
+Zram and Swap being used together
+Enjoy!

@@ -8,6 +8,15 @@
       "url":"https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-20210205-2158-starqltechn.zip",
       "type":"GApps",
       "android":"11"
+    },
+    {
+      "datetime":"1612974625",
+      "filename":"Kraken-11-GApps-20210210-1332-starqltechn.zip",
+      "id":"198ea6b197a1a2d91e26f2b216132517", ]
+      "size":"892352449",}
+      "url":"https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210210-1332-starqltechn.zip",
+      "type":"GApps",
+      "android":"11"
     }
   ]
 }

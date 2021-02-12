@@ -1,0 +1,6 @@
+- Gapps Build
+- Switch selinux to permisive build
+- Fix NFC
+- Fix GPS
+- Face unlock added
+- Clean flash needed

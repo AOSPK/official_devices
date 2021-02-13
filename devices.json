@@ -8,7 +8,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -20,7 +20,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -32,7 +32,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -44,7 +44,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -56,7 +56,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -68,7 +68,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -80,7 +80,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -92,7 +92,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -104,7 +104,7 @@
     "maintainer_country": "BR",
     "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps", "vanilla" ],
     "active": true
   },
   {
@@ -116,7 +116,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -128,7 +128,7 @@
     "maintainer_country": "EG",
     "xda_thread": "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps", "vanilla" ],
     "active": true
   },
   {
@@ -140,7 +140,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps", "vanilla" ],
     "active": true
   },
   {
@@ -152,7 +152,7 @@
     "maintainer_country": "ID",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "vanilla", "gapps" ],
+    "supported_types": [ "gapps", "vanilla" ],
     "active": true
   }
 ]

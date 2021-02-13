@@ -6,8 +6,8 @@
       "id": "194841c3c9466445d76a20b786e0210a",
       "size": "876156231",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-20210205-2232-star2qltechn.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     },
     {
       "datetime": "1612978680",
@@ -15,8 +15,8 @@
       "id": "c25707bb0d76e74bf6110afd09cd82bb",
       "size": "892332945",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210210-1440-star2qltechn.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

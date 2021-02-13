@@ -1,13 +1,13 @@
 {
-   "response":[
-      {
-         "datetime":"1612924907",
-         "filename":"Kraken-11-GApps-20210210-0243-lake.zip",
-         "id":"cb0d6a3e67090f4582da82bd1de18607",
-         "size":"1000178629",
-         "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210210-0243-lake.zip",
-         "type":"GApps",
-         "android":"11"
-      }
-   ]
+  "response": [
+    {
+      "datetime": "1612924907",
+      "filename": "Kraken-11-GApps-20210210-0243-lake.zip",
+      "id": "cb0d6a3e67090f4582da82bd1de18607",
+      "size": "1000178629",
+      "url": "https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210210-0243-lake.zip",
+      "romtype": "gapps",
+      "version": "11"
+    }
+  ]
 }

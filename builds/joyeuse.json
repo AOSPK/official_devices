@@ -6,8 +6,8 @@
       "id": "d21defab82551868b23b39c8a655cea7",
       "size": "1265616401",
       "url": "https://master.dl.sourceforge.net/project/aospk/joyeuse/Kraken-11-Vanilla-20210207-0503-joyeuse.zip",
-      "type": "Vanilla",
-      "android": "11"
+      "romtype": "vanilla",
+      "version": "11"
     },
     {
       "datetime": "1613045439",
@@ -15,8 +15,8 @@
       "id": "1cd0014e9621725e4c2d0f3e316d3f96",
       "size": "1604366684",
       "url": "https://master.dl.sourceforge.net/project/aospk/joyeuse/Kraken-11-GApps-20210211-2012-joyeuse.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

@@ -6,8 +6,8 @@
       "id": "747f837d88e39b378c6fc16dcc6b45ec",
       "size": "874867974",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-20210205-2304-crownqltechn.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     },
     {
       "datetime": "1612980742",
@@ -15,8 +15,8 @@
       "id": "3c9a265c9d50b8333678669738b27346",
       "size": "890996930",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210210-1514-crownqltechn.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

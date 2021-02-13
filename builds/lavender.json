@@ -6,8 +6,8 @@
       "id": "ab5c61784fe3e3af5be9cdace28dbea9",
       "size": "1134927248",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210121-2229-lavender.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     },
     {
       "datetime": "1611741306",
@@ -15,8 +15,8 @@
       "id": "383d3a05ef7e3b97dc86b1f1070948d5",
       "size": "1132057107",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210127-0657-lavender.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     },
     {
       "datetime": "1612542641",
@@ -24,8 +24,8 @@
       "id": "c529ff49bf44336116fb7492319c0d96",
       "size": "1153980939",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210205-1332-lavender.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     },
     {
       "datetime": "1612687490",
@@ -33,8 +33,8 @@
       "id": "d56e3a5b64e347fe0276abed03479973",
       "size": "846666541",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-Vanilla-20210207-0547-lavender.zip",
-      "type": "Vanilla",
-      "android": "11"
+      "romtype": "vanilla",
+      "version": "11"
     },
     {
       "datetime": "1612726199",
@@ -42,8 +42,8 @@
       "id": "1ad460142a616d3da654c8f82bc29626",
       "size": "1171027363",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210207-1631-lavender.zip",
-      "type": "GApps",
-      "android": "11"
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

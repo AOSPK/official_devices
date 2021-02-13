@@ -73,6 +73,30 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Mi 6X",
+    "codename": "wayne",
+    "maintainer_name": "Ronald",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=9534825",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "vanilla", "gapps" ],
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi A2",
+    "codename": "jasmine_sprout",
+    "maintainer_name": "Ronald",
+    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=9534825",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "vanilla", "gapps" ],
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Poco F1",
     "codename": "beryllium",
     "maintainer_name": "mamutal91",

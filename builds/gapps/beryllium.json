@@ -2,37 +2,37 @@
   "response": [
     {
       "datetime": "1607736780",
-      "filename": "Kraken-11-20201212-0133-beryllium.zip",
+      "filename": "Kraken-11-GApps-20201212-0133-beryllium.zip",
       "id": "8a1bbf403f8697d5eae830c21d87e94f",
       "size": "892734945",
-      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20201212-0133-beryllium.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20201212-0133-beryllium.zip",
       "romtype": "gapps",
       "version": "11"
     },
     {
       "datetime": "1608123043",
-      "filename": "Kraken-11-20201216-0953-beryllium.zip",
+      "filename": "Kraken-11-GApps-20201216-0953-beryllium.zip",
       "id": "d4443c5ffb6ef07ce74553606ad0f5fb",
       "size": "1059869429",
-      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20201216-0953-beryllium.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20201216-0953-beryllium.zip",
       "romtype": "gapps",
       "version": "11"
     },
     {
       "datetime": "1610941745",
-      "filename": "Kraken-11-20210118-0350-beryllium.zip",
+      "filename": "Kraken-11-GApps-20210118-0350-beryllium.zip",
       "id": "145de5064f725d163c81a1b7e078a424",
       "size": "1086471193",
-      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20210118-0350-beryllium.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20210118-0350-beryllium.zip",
       "romtype": "gapps",
       "version": "11"
     },
     {
       "datetime": "1612494178",
-      "filename": "Kraken-11-20210205-0004-beryllium.zip",
+      "filename": "Kraken-11-GApps-20210205-0004-beryllium.zip",
       "id": "80b4f6e1ebb61a7f242d79ee05e75305",
       "size": "1091853014",
-      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-20210205-0004-beryllium.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20210205-0004-beryllium.zip",
       "romtype": "gapps",
       "version": "11"
     },

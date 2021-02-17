@@ -2,38 +2,29 @@
   "response": [
     {
       "datetime": "1611260711",
-      "filename": "Kraken-11-20210121-2229-lavender.zip",
+      "filename": "Kraken-11-GApps-20210121-2229-lavender.zip",
       "id": "ab5c61784fe3e3af5be9cdace28dbea9",
       "size": "1134927248",
-      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210121-2229-lavender.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210121-2229-lavender.zip",
       "romtype": "gapps",
       "version": "11"
     },
     {
       "datetime": "1611741306",
-      "filename": "Kraken-11-20210127-0657-lavender.zip",
+      "filename": "Kraken-11-GApps-20210127-0657-lavender.zip",
       "id": "383d3a05ef7e3b97dc86b1f1070948d5",
       "size": "1132057107",
-      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210127-0657-lavender.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210127-0657-lavender.zip",
       "romtype": "gapps",
       "version": "11"
     },
     {
       "datetime": "1612542641",
-      "filename": "Kraken-11-20210205-1332-lavender.zip",
+      "filename": "Kraken-11-GApps-20210205-1332-lavender.zip",
       "id": "c529ff49bf44336116fb7492319c0d96",
       "size": "1153980939",
-      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-20210205-1332-lavender.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210205-1332-lavender.zip",
       "romtype": "gapps",
-      "version": "11"
-    },
-    {
-      "datetime": "1612687490",
-      "filename": "Kraken-11-Vanilla-20210207-0547-lavender.zip",
-      "id": "d56e3a5b64e347fe0276abed03479973",
-      "size": "846666541",
-      "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-Vanilla-20210207-0547-lavender.zip",
-      "romtype": "vanilla",
       "version": "11"
     },
     {

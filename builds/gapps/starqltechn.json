@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": "1612572967",
-      "filename": "Kraken-11-20210205-2158-starqltechn.zip",
+      "filename": "Kraken-11-GApps-20210205-2158-starqltechn.zip",
       "id": "c663d20836627e0099de9f51e5211a4a",
       "size": "876168027",
-      "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-20210205-2158-starqltechn.zip",
+      "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210205-2158-starqltechn.zip",
       "romtype": "gapps",
       "version": "11"
     },

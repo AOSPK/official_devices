@@ -26,6 +26,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210216-0313-star2qltechn.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1613592807",
+      "filename": "Kraken-11-GApps-20210217-1715-star2qltechn.zip",
+      "id": "56aee73a410c61cd3c1ccb68062077d1",
+      "size": "908110859",
+      "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210217-1715-star2qltechn.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

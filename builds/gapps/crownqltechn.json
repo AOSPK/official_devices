@@ -26,6 +26,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210216-0345-crownqltechn.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1613772016",
+      "filename": "Kraken-11-GApps-20210219-1902-crownqltechn.zip",
+      "id": "6fc01fedbf733629a7adef10bcfb73c9",
+      "size": "907137630",
+      "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210219-1902-crownqltechn.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

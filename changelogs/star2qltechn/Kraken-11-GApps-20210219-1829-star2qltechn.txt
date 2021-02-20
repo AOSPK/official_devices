@@ -1,0 +1,7 @@
+• Selinux Enforcing is now active.
+• February Security Patch.
+• Improvements have been made to FastCharge.
+• Button Home was forced to be activated.
+(this does not guarantee that the button is working).
+• Tree licenses have been updated.
+• Otas are now working 100%.

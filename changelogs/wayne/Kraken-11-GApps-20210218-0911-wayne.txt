@@ -1,0 +1,4 @@
+• GApps Included
+• Miui Cam Added
+• No Encrypted
+• Need root? flash magisk 21.4

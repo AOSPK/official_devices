@@ -1,0 +1,3 @@
+~Kernel upstreamed to 4.14.221 QsV2-Kraken-perf
+~Changed resources 
+~Some bug fixes

@@ -9,5 +9,14 @@
       "romtype": "vanilla",
       "version": "11"
     }
+    {
+      "datetime": "1613952697",
+      "filename": "Kraken-11-Vanilla-20210221-2113-beryllium.zip",
+      "id": "cfd008ea805c0249b215c2b7b1f2bf92",
+      "size": "814794816",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-Vanilla-20210221-2113-beryllium.zip",
+      "romtype": "vanilla",
+      "version": "11"
+    }
   ]
 }

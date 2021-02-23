@@ -1,0 +1,2 @@
+• Fixed a certain app crash
+• added some more functions

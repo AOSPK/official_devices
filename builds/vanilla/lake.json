@@ -17,6 +17,15 @@
          "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-Vanilla-20210226-2042-lake.zip",
          "romtype":"vanilla",
          "version":"11"
+      },
+      {
+         "datetime": "1614463604",
+         "filename": "Kraken-11-Vanilla-20210227-2208-lake.zip",
+         "id": "a9aac5dd8d96b3a03eb4fde2fc2aa208",
+         "size": "732988331",
+         "url": "https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-Vanilla-20210227-2208-lake.zip",
+         "romtype": "vanilla",
+         "version": "11"
       }
    ]
 }

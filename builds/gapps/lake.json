@@ -26,6 +26,15 @@
          "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210226-2212-lake.zip",
          "romtype":"gapps",
          "version":"11"
+      },
+      {
+         "datetime": "1614461672",
+         "filename": "Kraken-11-GApps-20210227-2136-lake.zip",
+         "id": "83ef57fb0255505e52aacfd59fd59700",
+         "size": "1014635351",
+         "url": "https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210227-2136-lake.zip",
+         "romtype": "gapps",
+         "version": "11"
       }
    ]
 }

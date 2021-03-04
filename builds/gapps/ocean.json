@@ -7,6 +7,7 @@
       "size": "813543707",
       "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20201216-1855-ocean.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "833031385",
       "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20210117-1835-ocean.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "864277753",
       "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20210209-2111-ocean.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "877596526",
       "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20210306-1446-ocean.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -43,6 +47,7 @@
       "size": "939904129",
       "url": "https://download.aospk.org/eleven/ocean/gapps/Kraken-11-GApps-20210407-1417-ocean.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

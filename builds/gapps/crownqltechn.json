@@ -7,6 +7,7 @@
       "size": "874867974",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210205-2304-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "890996930",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210210-1514-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "909445453",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210216-0345-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "907137630",
       "url": "https://master.dl.sourceforge.net/project/aospk/crownqltechn/Kraken-11-GApps-20210219-1902-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -43,6 +47,7 @@
       "size": "904095069",
       "url": "https://download.aospk.org/eleven/gapps/crownqltechn/Kraken-11-GApps-20210222-1945-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -52,6 +57,7 @@
       "size": "964879778",
       "url": "https://download.aospk.org/eleven/crownqltechn/gapps/Kraken-11-GApps-20210411-1446-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -61,6 +67,7 @@
       "size": "965030757",
       "url": "https://download.aospk.org/eleven/crownqltechn/gapps/Kraken-11-GApps-20210418-2152-crownqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

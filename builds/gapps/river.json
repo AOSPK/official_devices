@@ -7,6 +7,7 @@
       "size": "815215008",
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20201216-2216-river.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "834922498",
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20210117-2201-river.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "865949100",
       "url": "https://download.aospk.org/eleven/river/gapps/Kraken-11-GApps-20210209-2149-river.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

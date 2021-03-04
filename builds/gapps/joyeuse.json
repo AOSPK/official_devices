@@ -7,6 +7,7 @@
       "size": "1604366684",
       "url": "https://master.dl.sourceforge.net/project/aospk/joyeuse/Kraken-11-GApps-20210211-2012-joyeuse.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "1397808272",
       "url": "https://master.dl.sourceforge.net/project/aospk/joyeuse/Kraken-11-GApps-20210309-1908-joyeuse.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
 	{
@@ -25,6 +27,7 @@
       "size": "1397700834",
       "url": "https://download.aospk.org/eleven/joyeuse/gapps/Kraken-11-GApps-20210317-1458-joyeuse.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

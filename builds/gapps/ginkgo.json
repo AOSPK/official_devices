@@ -7,6 +7,7 @@
       "size": "1100071142",
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210203-1706-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "1231262509",
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210207-1939-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "1241163556",
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210221-0833-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "1263537883",
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210309-0629-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -43,6 +47,7 @@
       "size": "1281682716",
       "url": "https://download.aospk.org/eleven/ginkgo/gapps/Kraken-11-GApps-20210324-0846-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -52,6 +57,7 @@
       "size": "1300854095",
       "url": "https://download.aospk.org/eleven/ginkgo/gapps/Kraken-11-GApps-20210416-1203-ginkgo.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

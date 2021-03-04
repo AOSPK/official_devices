@@ -7,6 +7,7 @@
       "size": "1134927248",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210121-2229-lavender.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "1132057107",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210127-0657-lavender.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "1153980939",
       "url": "https://master.dl.sourceforge.net/project/aospk/lavender/Kraken-11-GApps-20210205-1332-lavender.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "1171027363",
       "url": "https://download.aospk.org/eleven/lavender/gapps/Kraken-11-GApps-20210207-1631-lavender.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

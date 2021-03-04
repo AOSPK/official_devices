@@ -7,6 +7,7 @@
       "size": "876156231",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210205-2232-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "892332945",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210210-1440-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "910784794",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210216-0313-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "908446523",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210219-1829-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -43,6 +47,7 @@
       "size": "905420363",
       "url": "https://master.dl.sourceforge.net/project/aospk/star2qltechn/Kraken-11-GApps-20210222-1908-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -52,6 +57,7 @@
       "size": "934558456",
       "url": "https://download.aospk.org/eleven/star2qltechn/gapps/Kraken-11-GApps-20210310-0740-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -61,6 +67,7 @@
       "size": "966232283",
       "url": "https://download.aospk.org/eleven/star2qltechn/gapps/Kraken-11-GApps-20210411-1349-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -70,6 +77,7 @@
       "size": "966325340",
       "url": "https://download.aospk.org/eleven/star2qltechn/gapps/Kraken-11-GApps-20210418-2114-star2qltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

@@ -7,6 +7,7 @@
       "size": "876168027",
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210205-2158-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -16,6 +17,7 @@
       "size": "892352449",
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210210-1332-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -25,6 +27,7 @@
       "size": "910774982",
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210216-0240-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -34,6 +37,7 @@
       "size": "908492516",
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210219-1933-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -43,6 +47,7 @@
       "size": "905424844",
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210222-1757-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -52,6 +57,7 @@
       "size": "934582662",
       "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210310-0624-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -61,6 +67,7 @@
       "size": "966244675",
       "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210410-2243-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     },
     {
@@ -70,6 +77,7 @@
       "size": "966344074",
       "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210418-2032-starqltechn.zip",
       "romtype": "gapps",
+      "android": "eleven",
       "version": "11"
     }
   ]

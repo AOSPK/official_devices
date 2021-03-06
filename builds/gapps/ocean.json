@@ -26,6 +26,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20210209-2111-ocean.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1615052684",
+      "filename": "Kraken-11-GApps-20210306-1446-ocean.zip",
+      "id": "e7429b5de76aee6a8a227e75d6ce9443",
+      "size": "877596526",
+      "url": "https://master.dl.sourceforge.net/project/aospk/ocean/Kraken-11-GApps-20210306-1446-ocean.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

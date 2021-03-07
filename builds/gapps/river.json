@@ -26,15 +26,6 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20210209-2149-river.zip",
       "romtype": "gapps",
       "version": "11"
-    },
-    {
-      "datetime": "1615061786",
-      "filename": "Kraken-11-GApps-20210306-1717-river.zip",
-      "id": "d12ec389a027bd345170ee30b04112e2",
-      "size": "879666534",
-      "url": "https://master.dl.sourceforge.net/project/aospk/river/Kraken-11-GApps-20210306-1717-river.zip",
-      "romtype": "gapps",
-      "version": "11"
     }
   ]
 }

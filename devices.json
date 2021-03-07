@@ -144,13 +144,13 @@
     "active": true
   },
   {
-    "brand":"Xiaomi",
-    "name":"Redmi Note 8 Pro",
-    "codename":"begonia",
-    "maintainer_name":"Sambit(stellabyte)",
-    "maintainer_xda":"https://forum.xda-developers.com/m/psambitk1.10219211/",
-    "maintainer_country":"IN",
-    "xda_thread":"",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 8 Pro",
+    "codename": "begonia",
+    "maintainer_name": "Sambit (stellabyte)",
+    "maintainer_xda": "https://forum.xda-developers.com/m/psambitk1.10219211/",
+    "maintainer_country": "IND",
+    "xda_thread": "",
     "supported_versions": [ "eleven" ],
     "supported_types": [ "gapps" ],
     "active": true

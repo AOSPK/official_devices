@@ -9,12 +9,12 @@
       "romtype": "vanilla",
       "version": "11"
     },
-	{
+	  {
       "datetime": "1615968073",
       "filename": "Kraken-11-Vanilla-20210317-1603-joyeuse.zip",
       "id": "7f5a8bf4469f3571b9aaa707902b66b6",
       "size": "1049631127",
-      "url": "https://master.dl.sourceforge.net/project/aospk/joyeuse/Kraken-11-Vanilla-20210317-1603-joyeuse.zip",
+      "url": "https://download.aospk.org/eleven/joyeuse/vanilla/Kraken-11-Vanilla-20210317-1603-joyeuse.zip",
       "romtype": "vanilla",
       "version": "11"
     }

@@ -1,18 +1,6 @@
 [
   {
     "brand": "Motorola",
-    "name": "Moto G7",
-    "codename": "river",
-    "maintainer_name": "vulkan-ops",
-    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=11153911",
-    "maintainer_country": "BR",
-    "xda_thread": "",
-    "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps" ],
-    "active": true
-  },
-  {
-    "brand": "Motorola",
     "name": "Moto G7 Power",
     "codename": "ocean",
     "maintainer_name": "vulkan-ops",

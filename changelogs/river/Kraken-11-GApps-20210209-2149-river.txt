@@ -1,3 +1,0 @@
-February security patch.
-fixed hotspot.
-add Radio Fm.

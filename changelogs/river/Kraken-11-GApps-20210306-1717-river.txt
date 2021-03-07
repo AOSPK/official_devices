@@ -1,3 +1,0 @@
-* March security path
-* safetynet working without magisk
-* minor fixes / improvements.

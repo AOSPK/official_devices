@@ -1,5 +1,0 @@
-*January security patch.
-*Fix charging off.
-*Fix Bluetooth.
-*Add Gcam.
-enjoy!

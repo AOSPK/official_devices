@@ -682,10 +682,10 @@
     "deprecated": false,
     "repositories": [
       "device_xiaomi_ysl",
-      "device_xiaomi_ms8953-common",
+      "device_xiaomi_msm8953-common",
       "kernel_xiaomi_ysl",
       "vendor_xiaomi_ysl",
-      "vendor_xiaomi_ms8953-common"
+      "vendor_xiaomi_msm8953-common"
     ]
   }
 ]

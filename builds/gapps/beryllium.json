@@ -53,6 +53,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20210221-1923-beryllium.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1615228352",
+      "filename": "Kraken-11-GApps-20210308-1534-beryllium.zip",
+      "id": "5b59af52e0794d6cb889890e1a9ab4fd",
+      "size": "1157053283",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-GApps-20210308-1534-beryllium.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

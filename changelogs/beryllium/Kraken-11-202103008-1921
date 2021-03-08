@@ -1,5 +1,5 @@
 Kernel
-• Upstream 4.9.459
+• Upstream 4.9.458
 • Touch drivers updated from CAF 4.19
 • Implement kernelspace battery saver 
 • Added Power Efficient workqeues

@@ -1,0 +1,13 @@
+Kernel
+• Upstream 4.9.459
+• Touch drivers updated from CAF 4.19
+• Implement kernelspace battery saver 
+• Added Power Efficient workqeues
+• Updated FingerPrint drivers 
+ROM
+• Updated March Security Patch
+• Remove fingerprint HAL from background cpuset
+• Switch to aidl Light HAL
+• Configure SQLite to operate in MEMORY mode
+• Set props for userspace lmkd
+• Added SBC Dual Channel Support 

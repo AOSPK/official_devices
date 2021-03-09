@@ -1,0 +1,4 @@
+*Build is enforcing now 
+*Updated tree
+*Cam freeze and delay fixed
+*Other improvements 

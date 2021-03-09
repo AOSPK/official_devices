@@ -17,6 +17,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-Vanilla-20210221-0910-ginkgo.zip",
       "romtype": "vanilla",
       "version": "11"
+    },
+    {
+      "datetime": "1615284255",
+      "filename": "Kraken-11-Vanilla-20210309-0705-ginkgo.zip",
+      "id": "14f51fabc00093b9000c8cc8ae6ded15",
+      "size": "933642042",
+      "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-Vanilla-20210309-0705-ginkgo.zip",
+      "romtype": "vanilla",
+      "version": "11"
     }
   ]
 }

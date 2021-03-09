@@ -1,0 +1,8 @@
+•Merge CAF LA.UM.9.3.r1-01000-sdm845.0
+• Upstream 4.9.458
+• Updated March Security Patch
+• Remove fingerprint HAL from background cpuset
+• Switch to aidl Light HAL
+• Configure SQLite to operate in MEMORY mode
+• Set props for userspace lmkd
+• Added SBC Dual Channel Support 

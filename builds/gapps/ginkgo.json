@@ -26,6 +26,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210221-0833-ginkgo.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1615282073",
+      "filename": "Kraken-11-GApps-20210309-0629-ginkgo.zip",
+      "id": "75dcc2465a197a63bf18a7a0573f52d6",
+      "size": "1263537883",
+      "url": "https://master.dl.sourceforge.net/project/aospk/ginkgo/Kraken-11-GApps-20210309-0629-ginkgo.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

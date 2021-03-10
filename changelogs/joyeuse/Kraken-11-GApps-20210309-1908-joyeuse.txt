@@ -1,0 +1,7 @@
+• LA.UM.9.1.r1-09100-SMxxx0.0
+• Upstream 4.14.224
+• Updated March Security Patch
+• SELinux Enforcing
+• Remove Face Unlock
+• Remove ANX Camera
+• Disable COMPRESS_VOIP

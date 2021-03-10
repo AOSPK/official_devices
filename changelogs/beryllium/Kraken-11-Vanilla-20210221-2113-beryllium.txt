@@ -1,0 +1,9 @@
+• Upstream 4.9.257
+• Added gpu freq. 
+• Added Tcp congestion Westwood
+• Dropped pre built vendor.qti.hardware.perf.2.0
+• Remove divx/xvid support from swcodecs
+• switch to reversed perf HAL interface.
+• added offline charging
+• Indicator led fixed
+• Misc fixes and  changes

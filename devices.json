@@ -116,7 +116,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps" ],
+    "supported_types": [ "gapps", "vanilla" ],
     "active": true
   },
   {

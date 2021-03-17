@@ -10,7 +10,8 @@
         "codename": "lmi"
       }
     ],
-    "ci_username": "mamutal91"
+    "ci_username": "mamutal91",
+    "core_member": true,
   },
   {
     "name": "Allan Pereira",
@@ -36,7 +37,8 @@
         "codename": "surya"
       }
     ],
-    "ci_username": "chrisw444"
+    "ci_username": "chrisw444",
+    "core_member": true,
   },
   {
     "name": "DIEGO",
@@ -54,15 +56,16 @@
   {
     "name": "Enyer",
     "country": "CO",
-    "github_username": "notreallydust",
-    "telegram_username": "NotReallyDust",
+    "github_username": "Clawside",
+    "telegram_username": "Clawside",
     "xda_url": "",
     "devices": [
       {
         "codename": "ysl"
       }
     ],
-    "ci_username": "dustxyz"
+    "ci_username": "clawside",
+    "core_member": true,
   },
   {
     "name": "Erik Garcia (ECr34T1v3)",
@@ -158,7 +161,8 @@
         "codename": "vayu"
       }
     ],
-    "ci_username": "kleidione"
+    "ci_username": "kleidione",
+    "core_member": true,
   },
   {
     "name": "Lazare Kikaleishvili",
@@ -285,18 +289,5 @@
       }
     ],
     "ci_username": "tusharind007"
-  },
-  {
-    "name": "",
-    "country": "",
-    "github_username": "",
-    "telegram_username": "",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "beryllium"
-      }
-    ],
-    "ci_username": ""
   }
 ]

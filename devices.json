@@ -520,12 +520,13 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": true,
+    "deprecated": false,
     "repositories": [
       "device_xiaomi_mojito",
+      "device_xiaomi_mojito-common",
       "kernel_xiaomi_mojito",
       "vendor_xiaomi_mojito",
-      "vendor_xiaomi_mojito-vendor"
+      "vendor_xiaomi_mojito-common"
     ]
   },
   {

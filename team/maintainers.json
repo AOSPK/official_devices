@@ -11,7 +11,7 @@
       }
     ],
     "ci_username": "mamutal91",
-    "core_member": true,
+    "core_member": true
   },
   {
     "name": "Allan Pereira",
@@ -38,7 +38,7 @@
       }
     ],
     "ci_username": "chrisw444",
-    "core_member": true,
+    "core_member": true
   },
   {
     "name": "DIEGO",
@@ -65,7 +65,7 @@
       }
     ],
     "ci_username": "clawside",
-    "core_member": true,
+    "core_member": true
   },
   {
     "name": "Erik Garcia (ECr34T1v3)",
@@ -162,7 +162,7 @@
       }
     ],
     "ci_username": "kleidione",
-    "core_member": true,
+    "core_member": true
   },
   {
     "name": "Lazare Kikaleishvili",
@@ -231,6 +231,19 @@
       }
     ],
     "ci_username": "ronaldst"
+  },
+  {
+    "name": "Royal King",
+    "country": "IN",
+    "github_username": "DEVJAYDEEP",
+    "telegram_username": "Royal_King_0",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "mojito"
+      }
+    ],
+    "ci_username": "Royal_King_0"
   },
   {
     "name": "Sambit",

@@ -1,0 +1,10 @@
+• Upstream 4.14.225
+• Source Upstream
+• Set fast charging indicator threshold to 10.8W
+• Fixed VOIP call audio issues, credits @ctwoon
+• Set navigation gestures as default
+• Update audio_io_policy for VoIP
+• Update TetheringOverlay & WifiOverlay
+• Improvements in wifi and zram
+• Improvements in boot time
+• Added Gpu boost and per app thermal profile

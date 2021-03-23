@@ -181,6 +181,18 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Redmi Note 10",
+    "codename": "mojito",
+    "maintainer_name": "kleidione",
+    "maintainer_xda": "",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Redmi Note 10 Pro",
     "codename": "sweet",
     "maintainer_name": "PriQue",

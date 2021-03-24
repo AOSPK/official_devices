@@ -335,7 +335,8 @@
     "codename": "platina",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -373,7 +374,8 @@
     "codename": "daisy",
     "xda_thread": "",
     "supportted_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -561,7 +563,8 @@
     "codename": "tulip",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -622,7 +625,8 @@
     "codename": "ginkgo",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -660,7 +664,8 @@
     "codename": "miatoll",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",

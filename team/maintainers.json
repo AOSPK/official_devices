@@ -103,6 +103,19 @@
     "ci_username": "esrom"
   },
   {
+    "name": "Giovanni Stocco",
+    "country": "BR",
+    "github_username": "giostocco",
+    "telegram_username": "GioStocco",
+    "xda_url": "https://forum.xda-developers.com/m/stocco.6051580/",
+    "devices": [
+      {
+        "codename": "raphael"
+      }
+    ],
+    "ci_username": "giostocco"
+  },
+  {
     "name": "Jean Graff",
     "country": "BR",
     "github_username": "jeangraff30",
@@ -130,9 +143,6 @@
       },
       {
         "codename": "lake"
-      },
-      {
-        "codename": "raphael"
       }
     ],
     "ci_username": "jorgelucas"

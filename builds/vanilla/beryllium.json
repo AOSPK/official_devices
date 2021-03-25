@@ -26,6 +26,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-Vanilla-20210308-1644-beryllium.zip",
       "romtype": "vanilla",
       "version": "11"
+    },
+    {
+      "datetime": "1616647708",
+      "filename": "Kraken-11-Vanilla-20210325-0150-beryllium.zip",
+      "id": "b78bec6dc9a793cd3159ca20ba4b7965",
+      "size": "844628510",
+      "url": "https://master.dl.sourceforge.net/project/aospk/beryllium/Kraken-11-Vanilla-20210325-0150-beryllium.zip",
+      "romtype": "vanilla",
+      "version": "11"
     }
   ]
 }

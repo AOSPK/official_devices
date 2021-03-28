@@ -369,6 +369,25 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Mi A2 Lite",
+    "codename": "daisy",
+    "xda_thread": "",
+    "supportted_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_daisy",
+      "kernel_xiaomi_msm8953",
+      "vendor_xiaomi_daisy"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Poco F1",
     "codename": "beryllium",
     "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
@@ -665,25 +684,6 @@
       "device_xiaomi_ysl",
       "kernel_xiaomi_ysl",
       "vendor_xiaomi_ysl"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Mi A2 Lite",
-    "codename": "daisy",
-    "xda_thread": "",
-    "supportted_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_xiaomi_daisy",
-      "kernel_xiaomi_msm8953",
-      "vendor_xiaomi_daisy"
     ]
   }
 ]

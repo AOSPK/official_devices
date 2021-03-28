@@ -161,6 +161,19 @@
     "ci_username": "kleidione"
   },
   {
+    "name": "Lazare Kikaleishvilil",
+    "country": "GE",
+    "github_username": "LmaoDevice",
+    "telegram_username": "Lmao_Device",
+    "xda_url": "https://forum.xda-developers.com/m/lazare1971.9966917/",
+    "devices": [
+      {
+        "codename": "daisy"
+      }
+    ],
+    "ci_username": "lazare"
+  },
+  {
     "name": "LucasAlves",
     "country": "BR",
     "github_username": "lucasalvesrds",

@@ -154,5 +154,17 @@
     "supported_versions": [ "eleven" ],
     "supported_types": [ "gapps", "vanilla" ],
     "active": true
-  }
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi S2/Y2",
+    "codename": "ysl",
+    "maintainer_name": "Dustxyz",
+    "maintainer_xda": "https://forum.xda-developers.com/m/itsenyer.11085307",
+    "maintainer_country": "CO",
+    "xda_thread": "",
+    "supportted_versions": ["eleven"],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+ }
 ]

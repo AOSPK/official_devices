@@ -3,9 +3,9 @@
     "brand": "Motorola",
     "name": "Moto G7",
     "codename": "river",
-    "maintainer_name": "vulkan-ops",
-    "maintainer_xda": "https://forum.xda-developers.com/member.php?u=11153911",
-    "maintainer_country": "BR",
+    "maintainer_name": "",
+    "maintainer_xda": "",
+    "maintainer_country": "",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
     "supported_types": [ "gapps" ],
@@ -32,7 +32,7 @@
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps", "vanilla" ],
+    "supported_types": [ "gapps" ],
     "active": true
   },
   {
@@ -163,7 +163,7 @@
     "maintainer_xda": "https://forum.xda-developers.com/m/itsenyer.11085307",
     "maintainer_country": "CO",
     "xda_thread": "",
-    "supportted_versions": ["eleven"],
+    "supportted_versions": [ "eleven" ],
     "supported_types": [ "gapps", "vanilla" ],
     "active": true
  }

@@ -1,1 +1,5 @@
-April security path added Added faceunlock Re-added LiveDisplay Minor improvements in source and device Minor Fixes.
+April security path added
+Added faceunlock
+Re-added LiveDisplay
+Minor improvements in source and device
+Minor Fixes.

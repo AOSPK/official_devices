@@ -26,6 +26,15 @@
       "url": "https://download.aospk.org/eleven/joyeuse/gapps/Kraken-11-GApps-20210317-1458-joyeuse.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+  {
+      "datetime": "1618018832",
+      "filename": "Kraken-11-GApps-20210410-0942-joyeuse.zip",
+      "id": "e2da2558384a24808b40bdb253601001",
+      "size": "1695900529",
+      "url": "https://download.aospk.org/eleven/joyeuse/gapps/Kraken-11-GApps-20210410-0942-joyeuse.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

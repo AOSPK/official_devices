@@ -1,0 +1,6 @@
+• April security path added
+• Added faceunlock
+• Fix charging LED
+• Kernel Upstream to 4.14.229
+• Minor improvements in source and device
+• Minor Fixes

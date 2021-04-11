@@ -1,0 +1,6 @@
+• April security patch
+• several improvements in the source
+• Fingerprint updated for April
+• Add Faceunlock
+• and much more...
+

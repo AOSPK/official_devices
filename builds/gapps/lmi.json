@@ -8,6 +8,15 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/lmi/Kraken-11-GApps-20210208-1352-lmi.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1618179600",
+      "filename": "Kraken-11-GApps-20210411-1921-lmi.zip",
+      "id": "a6084041491211b7f1f970b5b35fad64",
+      "size": "1518174950",
+      "url": "https://download.aospk.org/eleven/lmi/gapps/Kraken-11-GApps-20210411-1921-lmi.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

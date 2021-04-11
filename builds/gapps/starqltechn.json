@@ -26,8 +26,8 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210216-0240-starqltechn.zip",
       "romtype": "gapps",
       "version": "11"
-   },
-   {
+    },
+    {
       "datetime": "1613773926",
       "filename": "Kraken-11-GApps-20210219-1933-starqltechn.zip",
       "id": "71a54fee5d079fa51539ad6de024bfbf",
@@ -35,8 +35,8 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210219-1933-starqltechn.zip",
       "romtype": "gapps",
       "version": "11"
-   },
-   {
+    },
+    {
       "datetime": "1614027377",
       "filename": "Kraken-11-GApps-20210222-1757-starqltechn.zip",
       "id": "42d4cd237aa23fb2625102f72a6ea588",
@@ -44,15 +44,24 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/starqltechn/Kraken-11-GApps-20210222-1757-starqltechn.zip",
       "romtype": "gapps",
       "version": "11"
-   },
-   {
-       "datetime": "1615368155",
-       "filename": "Kraken-11-GApps-20210310-0624-starqltechn.zip",
-       "id": "c9b31cf02d6829dcdd4e22d8443795fe",
-       "size": "934582662",
-       "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210310-0624-starqltechn.zip",
-       "romtype": "gapps",
-       "version": "11"
-   }
+    },
+    {
+      "datetime": "1615368155",
+      "filename": "Kraken-11-GApps-20210310-0624-starqltechn.zip",
+      "id": "c9b31cf02d6829dcdd4e22d8443795fe",
+      "size": "934582662",
+      "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210310-0624-starqltechn.zip",
+      "romtype": "gapps",
+      "version": "11"
+    },
+    {
+      "datetime": "1618105268",
+      "filename": "Kraken-11-GApps-20210410-2243-starqltechn.zip",
+      "id": "985fb98583880d051580165dd14dde75",
+      "size": "966244675",
+      "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210410-2243-starqltechn.zip",
+      "romtype": "gapps",
+      "version": "11"
+    }
   ]
 }

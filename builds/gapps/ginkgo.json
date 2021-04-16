@@ -37,13 +37,22 @@
       "version": "11"
     },
     {
-       "datetime": "1616586274",
-       "filename": "Kraken-11-GApps-20210324-0846-ginkgo.zip",
-       "id": "2fb1dcda066b6a5388cebf0046d76831",
-       "size": "1281682716",
-       "url": "https://download.aospk.org/eleven/ginkgo/gapps/Kraken-11-GApps-20210324-0846-ginkgo.zip",
-       "romtype": "gapps",
-       "version": "11"
-     }
+      "datetime": "1616586274",
+      "filename": "Kraken-11-GApps-20210324-0846-ginkgo.zip",
+      "id": "2fb1dcda066b6a5388cebf0046d76831",
+      "size": "1281682716",
+      "url": "https://download.aospk.org/eleven/ginkgo/gapps/Kraken-11-GApps-20210324-0846-ginkgo.zip",
+      "romtype": "gapps",
+      "version": "11"
+    },
+    {
+      "datetime": "1618585269",
+      "filename": "Kraken-11-GApps-20210416-1203-ginkgo.zip",
+      "id": "009719118f35ce569667ef0d3bef63bb",
+      "size": "1300854095",
+      "url": "https://download.aospk.org/eleven/ginkgo/gapps/Kraken-11-GApps-20210416-1203-ginkgo.zip",
+      "romtype": "gapps",
+      "version": "11"
+    }
   ]
 }

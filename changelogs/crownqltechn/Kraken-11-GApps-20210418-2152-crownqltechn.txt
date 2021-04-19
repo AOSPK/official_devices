@@ -1,0 +1,3 @@
+improved Bluetooth sound
+bug fixing connections on bluetooth devices has been fixed
+( the microphone of bluetooth devices still causes noise, but you can understand what you say in low quality)

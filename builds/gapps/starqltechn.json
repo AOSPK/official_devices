@@ -62,6 +62,15 @@
       "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210410-2243-starqltechn.zip",
       "romtype": "gapps",
       "version": "11"
+    },
+    {
+      "datetime": "1618788626",
+      "filename": "Kraken-11-GApps-20210418-2032-starqltechn.zip",
+      "id": "bcd21cbcbed46d9eb4644b3c19c115c8",
+      "size": "966344074",
+      "url": "https://download.aospk.org/eleven/starqltechn/gapps/Kraken-11-GApps-20210418-2032-starqltechn.zip",
+      "romtype": "gapps",
+      "version": "11"
     }
   ]
 }

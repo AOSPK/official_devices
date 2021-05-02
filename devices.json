@@ -145,15 +145,15 @@
   },
   {
     "brand": "Xiaomi",
-    "name": "Redmi Note 9 Pro (Global)",
-    "codename": "joyeuse",
-    "maintainer_name": "",
-    "maintainer_xda": "",
-    "maintainer_country": "",
+    "name": "Redmi Note 8 Pro",
+    "codename": "begonia",
+    "maintainer_name": "Sambit(stellabyte)",
+    "maintainer_xda": "https://forum.xda-developers.com/m/psambitk1.10219211/",
+    "maintainer_country": "IN",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps", "vanilla" ],
-    "active": false
+    "supported_types": [ "gapps" ],
+    "active": true
   },
   {
     "brand": "Xiaomi",

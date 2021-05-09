@@ -7,7 +7,7 @@
          "size":"1000178629",
          "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210210-0243-lake.zip",
          "romtype":"gapps",
-         "android": "eleven",
+         "android":"eleven",
          "version":"11"
       },
       {
@@ -17,7 +17,7 @@
          "size":"1018673060",
          "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210215-1055-lake.zip",
          "romtype":"gapps",
-         "android": "eleven",
+         "android":"eleven",
          "version":"11"
       },
       {
@@ -27,28 +27,38 @@
          "size":"1007916511",
          "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210226-2212-lake.zip",
          "romtype":"gapps",
-         "android": "eleven",
+         "android":"eleven",
          "version":"11"
       },
       {
-         "datetime": "1614461672",
-         "filename": "Kraken-11-GApps-20210227-2136-lake.zip",
-         "id": "83ef57fb0255505e52aacfd59fd59700",
-         "size": "1014635351",
-         "url": "https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210227-2136-lake.zip",
-         "romtype": "gapps",
-         "android": "eleven",
-         "version": "11"
+         "datetime":"1614461672",
+         "filename":"Kraken-11-GApps-20210227-2136-lake.zip",
+         "id":"83ef57fb0255505e52aacfd59fd59700",
+         "size":"1014635351",
+         "url":"https://master.dl.sourceforge.net/project/aospk/lake/Kraken-11-GApps-20210227-2136-lake.zip",
+         "romtype":"gapps",
+         "android":"eleven",
+         "version":"11"
       },
       {
-       "datetime": "1616291375",
-       "filename": "Kraken-11-GApps-20210320-2251-lake.zip",
-       "id": "7925821a2e0312a57d77c8ced36d8852",
-       "size": "1030957094",
-       "url": "https://download.aospk.org/eleven/lake/gapps/Kraken-11-GApps-20210320-2251-lake.zip",
-       "romtype": "gapps",
-       "android": "eleven",
-       "version": "11"
+         "datetime":"1616291375",
+         "filename":"Kraken-11-GApps-20210320-2251-lake.zip",
+         "id":"7925821a2e0312a57d77c8ced36d8852",
+         "size":"1030957094",
+         "url":"https://download.aospk.org/eleven/lake/gapps/Kraken-11-GApps-20210320-2251-lake.zip",
+         "romtype":"gapps",
+         "android":"eleven",
+         "version":"11"
+      },
+      {
+         "datetime":"1620505886",
+         "filename":"Kraken-11-GApps-20210508-1732-lake.zip",
+         "id":"df3a07d44c48e15d7ae0181fe15faee8",
+         "size":"1095722301",
+         "url":"https://master.dl.sourceforge.net/project/aospk/eleven/lake/gapps/Kraken-11-GApps-20210508-1732-lake.zip",
+         "romtype":"gapps",
+         "android":"eleven",
+         "version":"11"
       }
    ]
 }

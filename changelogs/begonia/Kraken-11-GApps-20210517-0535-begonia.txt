@@ -1,0 +1,6 @@
+  • Enabled MTK neural networks HAL
+  • Building libtextclassifier from source
+  • Added missing MTK Neural Networks blobs
+  • Imported MTK APU blobs from begonia 11 RP1A.200720.011
+  • Updated apn configs from RP1A.200720.011
+ 

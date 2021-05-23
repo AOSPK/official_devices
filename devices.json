@@ -1,6 +1,18 @@
 [
   {
     "brand": "Motorola",
+    "name": "Moto G6",
+    "codename": "ali",
+    "maintainer_name": "Jean Graff",
+    "maintainer_xda": "https://forum.xda-developers.com/m/jeangraff30.9466600",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla"],
+    "active": true
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto G7",
     "codename": "river",
     "maintainer_name": "vulkan-ops",
@@ -29,6 +41,18 @@
     "codename": "lake",
     "maintainer_name": "Jorge Lucas",
     "maintainer_xda": "https://forum.xda-developers.com/m/jorge-lucas.9604887",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z2 Play",
+    "codename": "albus",
+    "maintainer_name": "Jean Graff",
+    "maintainer_xda": "https://forum.xda-developers.com/m/jeangraff30.9466600",
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],

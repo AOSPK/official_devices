@@ -121,6 +121,18 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Redmi Note 6 Pro",
+    "codename": "tulip",
+    "maintainer_name": "Mustafa",
+    "maintainer_xda": "https://forum.xda-developers.com/m/muti605.7950187/",
+    "maintainer_country": "TR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Redmi Note 7",
     "codename": "lavender",
     "maintainer_name": "Omar Hamad",

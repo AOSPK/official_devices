@@ -1,0 +1,9 @@
+-- May Update --
+Clean-up un-used blobs
+Drop non-functional soundtrigger configs
+Tuned zRAM perfomance
+Increased zRAM size to 1GB
+Re-enabled iorapd
+Fixed volume while calling
+
+

@@ -1,6 +1,18 @@
 [
   {
     "brand": "Motorola",
+    "name": "Moto G5S Plus",
+    "codename": "sanders",
+    "maintainer_name": "Jorge Lucas",
+    "maintainer_xda": "https://forum.xda-developers.com/m/jorge-lucas.9604887",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+  },
+  {
+    "brand": "Motorola",
     "name": "Moto G6",
     "codename": "ali",
     "maintainer_name": "Jean Graff",
@@ -137,6 +149,18 @@
     "codename": "lmi",
     "maintainer_name": "mamutal91",
     "maintainer_xda": "https://forum.xda-developers.com/member.php?u=8414586",
+    "maintainer_country": "BR",
+    "xda_thread": "",
+    "supported_versions": [ "eleven" ],
+    "supported_types": [ "gapps", "vanilla" ],
+    "active": true
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi K20 Pro/Mi 9T Pro",
+    "codename": "raphael",
+    "maintainer_name": "Jorge Lucas",
+    "maintainer_xda": "https://forum.xda-developers.com/m/jorge-lucas.9604887",
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],

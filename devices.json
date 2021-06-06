@@ -78,9 +78,9 @@
     "maintainer_name": "Nyoutaaa",
     "maintainer_xda": "",
     "maintainer_country": "BR",
-    "xda_thread": "",
+    "xda_thread": "https://forum.xda-developers.com/m/nyoutaa.10467859",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps" ],
+    "supported_types": [ "gapps" ], "vanilla" ],
     "active": true
   },
   {
@@ -88,11 +88,11 @@
     "name": "Galaxy S9+",
     "codename": "star2qltechn",
     "maintainer_name": "Nyoutaaa",
-    "maintainer_xda": "",
+    "maintainer_xda": "https://forum.xda-developers.com/m/nyoutaa.10467859",
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps" ],
+    "supported_types": [ "gapps" ], "vanilla" ],
     "active": true
   },
   {
@@ -100,11 +100,11 @@
     "name": "Galaxy Note 9",
     "codename": "crownqltechn",
     "maintainer_name": "Nyoutaaa",
-    "maintainer_xda": "",
+    "maintainer_xda": "https://forum.xda-developers.com/m/nyoutaa.10467859",
     "maintainer_country": "BR",
     "xda_thread": "",
     "supported_versions": [ "eleven" ],
-    "supported_types": [ "gapps" ],
+    "supported_types": [ "gapps" ], "vanilla" ],
     "active": true
   },
   {

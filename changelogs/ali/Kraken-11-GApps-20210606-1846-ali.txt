@@ -1,0 +1,3 @@
+• Initial build
+• Swift to f2fs CAF based
+• Fix glitch launcher

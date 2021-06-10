@@ -1,0 +1,12 @@
+June security patch 
+Switched to QTI Bluetooth stack 
+Dropped device settings app 
+Increased mic gain and some sound improvements 
+Halcyon kernel upstreamed to 4.4.271 
+Feature to enable/disable blur 
+Avatar in the Settings search bar 
+Color QS tiles the lucid way 
+GApps Updates 
+New clock for lock screen 
+Bluetooth improvements 
+Other performance and stability improvements.

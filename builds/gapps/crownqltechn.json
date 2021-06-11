@@ -79,6 +79,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1623410704",
+      "filename": "Kraken-11-GApps-20210611-0826-crownqltechn.zip",
+      "id": "2c567a75585369912575dac01bdb1baa",
+      "size": "980474132",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/crownqltechn/gapps/Kraken-11-GApps-20210611-0826-crownqltechn.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -89,6 +89,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1623386924",
+      "filename": "Kraken-11-GApps-20210611-0149-starqltechn.zip",
+      "id": "1ff851f82cb0e436bc057428ec698e37",
+      "size": "976988050",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/starqltechn/gapps/Kraken-11-GApps-20210611-0149-starqltechn.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

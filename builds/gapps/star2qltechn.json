@@ -89,6 +89,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1623388707",
+      "filename": "Kraken-11-GApps-20210611-0219-star2qltechn.zip",
+      "id": "60a320f5e4aa6f5658138dbd81b0c39d",
+      "size": "977013339",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/star2qltechn/gapps/Kraken-11-GApps-20210611-0219-star2qltechn.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -1,0 +1,8 @@
+• June security patches
+• Feature to enable/disable blur 
+• Avatar in the Settings search bar 
+• Color QS tiles the lucid way 
+• GApp Updates 
+• New clock for lock screen 
+• Bluetooth improvements
+• Other performance and stability improvements

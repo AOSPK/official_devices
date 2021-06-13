@@ -1,8 +1,8 @@
 [
   {
     "brand": "Motorola",
-    "name": "Moto G5S Plus",
-    "codename": "sanders",
+    "name": "Moto Z2 Play",
+    "codename": "albus",
     "xda_thread": "",
     "supported_versions": [
       "eleven"
@@ -13,10 +13,10 @@
     ],
     "deprecated": false,
     "repositories": [
-      "device_motorola_sanders",
+      "device_motorola_albus",
       "device_motorola_msm8953-common",
       "kernel_motorola_msm8953",
-      "vendor_motorola_sanders",
+      "vendor_motorola_albus",
       "vendor_motorola_msm8953-common"
     ]
   },
@@ -42,9 +42,9 @@
     ]
   },
   {
-    "brand": "Motorola",
-    "name": "Moto G7",
-    "codename": "river",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 8 Pro",
+    "codename": "begonia",
     "xda_thread": "",
     "supported_versions": [
       "eleven"
@@ -52,13 +52,110 @@
     "supported_types": [
       "gapps"
     ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_begonia",
+      "device_xiaomi_begonia-kernel",
+      "kernel_xiaomi_begonia",
+      "vendor_xiaomi-firmware",
+      "vendor_xiaomi_begonia"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco F1",
+    "codename": "beryllium",
+    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_beryllium",
+      "device_xiaomi_sdm845-common",
+      "kernel_xiaomi_sdm845",
+      "vendor_xiaomi_beryllium",
+      "vendor_xiaomi_sdm845-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note 9",
+    "codename": "crownqltechn",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_crownqltechn",
+      "device_samsung_sdm845-common",
+      "kernel_samsung_sdm845",
+      "vendor_samsung_sdm845-common"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 8/8T",
+    "codename": "ginkgo",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_ginkgo",
+      "kernel_xiaomi_ginkgo",
+      "vendor_xiaomi_ginkgo"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi A2",
+    "codename": "jasmine_sprout",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_jasmine_sprout",
+      "kernel_xiaomi_jasmine_sprout",
+      "vendor_xiaomi_jasmine_sprout"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 9 Pro (Global)",
+    "codename": "joyeuse",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
     "deprecated": true,
     "repositories": [
-      "device_motorola_river",
-      "device_motorola_sdm632-common",
-      "kernel_motorola_sdm632",
-      "vendor_motorola_river",
-      "vendor_motorola_sdm632-common"
+      "device_xiaomi_joyeuse",
+      "kernel_xiaomi_joyeuse",
+      "vendor_xiaomi_joyeuse"
     ]
   },
   {
@@ -83,148 +180,10 @@
     ]
   },
   {
-    "brand": "Motorola",
-    "name": "Moto G7 Power",
-    "codename": "ocean",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_ocean",
-      "device_motorola_sdm632-common",
-      "kernel_motorola_sdm632",
-      "vendor_motorola_ocean",
-      "vendor_motorola_sdm632-common"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto Z2 Play",
-    "codename": "albus",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_albus",
-      "device_motorola_msm8953-common",
-      "kernel_motorola_msm8953",
-      "vendor_motorola_albus",
-      "vendor_motorola_msm8953-common"
-    ]
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Note 9",
-    "codename": "crownqltechn",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_samsung_crownqltechn",
-      "device_samsung_sdm845-common",
-      "kernel_samsung_sdm845",
-      "vendor_samsung_sdm845-common"
-    ]
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S9",
-    "codename": "starqltechn",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_samsung_starqltechn",
-      "device_samsung_sdm845-common",
-      "kernel_samsung_sdm845",
-      "vendor_samsung_sdm845-common"
-    ]
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S9+",
-    "codename": "star2qltechn",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_samsung_star2qltechn",
-      "device_samsung_sdm845-common",
-      "kernel_samsung_sdm845",
-      "vendor_samsung_sdm845-common"
-    ]
-  },
-  {
     "brand": "Xiaomi",
-    "name": "Mi 6X",
-    "codename": "wayne",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_xiaomi_wayne",
-      "kernel_xiaomi_wayne",
-      "vendor_xiaomi_wayne"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Mi A2",
-    "codename": "jasmine_sprout",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_xiaomi_jasmine_sprout",
-      "kernel_xiaomi_jasmine_sprout",
-      "vendor_xiaomi_jasmine_sprout"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Poco F1",
-    "codename": "beryllium",
-    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kraken-project-2020-12-12.4202055/",
+    "name": "Redmi Note 7",
+    "codename": "lavender",
+    "xda_thread": "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
     "supported_versions": [
       "eleven"
     ],
@@ -232,13 +191,11 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
-      "device_xiaomi_beryllium",
-      "device_xiaomi_sdm845-common",
-      "kernel_xiaomi_sdm845",
-      "vendor_xiaomi_beryllium",
-      "vendor_xiaomi_sdm845-common"
+      "device_xiaomi_lavender",
+      "kernel_xiaomi_lavender",
+      "vendor_xiaomi_lavender"
     ]
   },
   {
@@ -264,6 +221,47 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Redmi Note 10",
+    "codename": "mojito",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_mojito",
+      "kernel_xiaomi_mojito",
+      "vendor_xiaomi_mojito",
+      "vendor_xiaomi_mojito-vendor"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7 Power",
+    "codename": "ocean",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_ocean",
+      "device_motorola_sdm632-common",
+      "kernel_motorola_sdm632",
+      "vendor_motorola_ocean",
+      "vendor_motorola_sdm632-common"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Redmi K20 Pro/Mi 9T Pro",
     "codename": "raphael",
     "xda_thread": "",
@@ -282,9 +280,29 @@
     ]
   },
   {
-    "brand": "Xiaomi",
-    "name": "Redmi Note 10",
-    "codename": "mojito",
+    "brand": "Motorola",
+    "name": "Moto G7",
+    "codename": "river",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps"
+    ],
+    "deprecated": true,
+    "repositories": [
+      "device_motorola_river",
+      "device_motorola_sdm632-common",
+      "kernel_motorola_sdm632",
+      "vendor_motorola_river",
+      "vendor_motorola_sdm632-common"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G5S Plus",
+    "codename": "sanders",
     "xda_thread": "",
     "supported_versions": [
       "eleven"
@@ -295,10 +313,70 @@
     ],
     "deprecated": false,
     "repositories": [
-      "device_xiaomi_mojito",
-      "kernel_xiaomi_mojito",
-      "vendor_xiaomi_mojito",
-      "vendor_xiaomi_mojito-vendor"
+      "device_motorola_sanders",
+      "device_motorola_msm8953-common",
+      "kernel_motorola_msm8953",
+      "vendor_motorola_sanders",
+      "vendor_motorola_msm8953-common"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Redmi 4X",
+    "codename": "santoni",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_santoni",
+      "kernel_xiaomi_santoni",
+      "vendor_xiaomi_santoni"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S9+",
+    "codename": "star2qltechn",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_star2qltechn",
+      "device_samsung_sdm845-common",
+      "kernel_samsung_sdm845",
+      "vendor_samsung_sdm845-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S9",
+    "codename": "starqltechn",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_starqltechn",
+      "device_samsung_sdm845-common",
+      "kernel_samsung_sdm845",
+      "vendor_samsung_sdm845-common"
     ]
   },
   {
@@ -343,27 +421,8 @@
   },
   {
     "brand": "Xiaomi",
-    "name": "Redmi Note 7",
-    "codename": "lavender",
-    "xda_thread": "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the-kraken-project-2021-1-22.4221837/",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": true,
-    "repositories": [
-      "device_xiaomi_lavender",
-      "kernel_xiaomi_lavender",
-      "vendor_xiaomi_lavender"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Redmi Note 8 Pro",
-    "codename": "begonia",
+    "name": "Mi 6X",
+    "codename": "wayne",
     "xda_thread": "",
     "supported_versions": [
       "eleven"
@@ -373,49 +432,9 @@
     ],
     "deprecated": false,
     "repositories": [
-      "device_xiaomi_begonia",
-      "device_xiaomi_begonia-kernel",
-      "kernel_xiaomi_begonia",
-      "vendor_xiaomi-firmware",
-      "vendor_xiaomi_begonia"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Redmi Note 8/8T",
-    "codename": "ginkgo",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_xiaomi_ginkgo",
-      "kernel_xiaomi_ginkgo",
-      "vendor_xiaomi_ginkgo"
-    ]
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Redmi Note 9 Pro (Global)",
-    "codename": "joyeuse",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": true,
-    "repositories": [
-      "device_xiaomi_joyeuse",
-      "kernel_xiaomi_joyeuse",
-      "vendor_xiaomi_joyeuse"
+      "device_xiaomi_wayne",
+      "kernel_xiaomi_wayne",
+      "vendor_xiaomi_wayne"
     ]
   },
   {

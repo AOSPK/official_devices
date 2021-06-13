@@ -161,6 +161,19 @@
     "ci_username": "nyouta"
   },
   {
+    "name": "TioBurla",
+    "country": "BR",
+    "github_username": "tioburla",
+    "telegram_username": "TioBurla",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "santoni"
+      }
+    ],
+    "ci_username": "tioburla"
+  },
+  {
     "name": "Vitor Nogueira",
     "country": "BR",
     "github_username": "vulkan-ops",

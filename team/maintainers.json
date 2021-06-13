@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Ankit",
+    "country": "ID",
+    "github_username": "badbumblebee",
+    "telegram_username": "astron0ut",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "beryllium"
+      }
+    ],
+    "ci_username": "badbumblebee"
+  },
+  {
+    "name": "Enyer",
+    "country": "CO",
+    "github_username": "dustxyz",
+    "telegram_username": "NotReallyDust",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "ysl"
+      }
+    ],
+    "ci_username": "dustxyz"
+  },
+  {
+    "name": "Jean Graff",
+    "country": "BR",
+    "github_username": "jeangraff30",
+    "telegram_username": "jeangraff30",
+    "xda_url": "https://forum.xda-developers.com/m/jeangraff30.9466600",
+    "devices": [
+      {
+        "codename": "ali"
+      },
+      {
+        "codename": "albus"
+      }
+    ],
+    "ci_username": "jeangraff30"
+  },
+  {
+    "name": "Jorge Lucas",
+    "country": "BR",
+    "github_username": "jorg3lucas",
+    "telegram_username": "JorgeLucas",
+    "xda_url": "https://forum.xda-developers.com/m/jorge-lucas.9604887",
+    "devices": [
+      {
+        "codename": "sanders"
+      },
+      {
+        "codename": "lake"
+      },
+      {
+        "codename": "raphael"
+      }
+    ],
+    "ci_username": "jorgelucas"
+  },
+  {
+    "name": "José Henrique",
+    "country": "BR",
+    "github_username": "ZezinhoRey",
+    "telegram_username": "zezinh0",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "ginkgo"
+      }
+    ],
+    "ci_username": "zezinhorey"
+  },
+  {
+    "name": "Kleidione",
+    "country": "BR",
+    "github_username": "kleidione",
+    "telegram_username": "kleidione",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "mojito"
+      }
+    ],
+    "ci_username": "kleidione"
+  },
+  {
+    "name": "Mustafa",
+    "country": "TR",
+    "github_username": "Muti605",
+    "telegram_username": "Muti605",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "tulip"
+      }
+    ],
+    "ci_username": "muti605"
+  },
+  {
+    "name": "Ronald",
+    "country": "BR",
+    "github_username": "",
+    "telegram_username": "RonaldSt",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "jasmine_sprout"
+      },
+      {
+        "codename": "wayne"
+      }
+    ],
+    "ci_username": "ronaldst"
+  },
+  {
+    "name": "Sambit",
+    "country": "ID",
+    "github_username": "stellabyte2",
+    "telegram_username": "thepsambit",
+    "xda_url": "https://forum.xda-developers.com/m/psambitk1.10219211",
+    "devices": [
+      {
+        "codename": "begonia"
+      }
+    ],
+    "ci_username": "thepsambit"
+  },
+  {
+    "name": "Samuel",
+    "country": "BR",
+    "github_username": "Nyoutaaa",
+    "telegram_username": "Nyoutaaa",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "starqltechn"
+      },
+      {
+        "codename": "star2qltechn"
+      },
+      {
+        "codename": "crownqltechn"
+      }
+    ],
+    "ci_username": "nyouta"
+  },
+  {
+    "name": "Vitor Nogueira",
+    "country": "BR",
+    "github_username": "vulkan-ops",
+    "telegram_username": "vulkanops",
+    "xda_url": "https://forum.xda-developers.com/member.php?u=11153911",
+    "devices": [
+      {
+        "codename": "river"
+      },
+      {
+        "codename": "ocean"
+      }
+    ],
+    "ci_username": "vulkanops"
+  }
+]

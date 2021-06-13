@@ -1,0 +1,9 @@
+Merged June Security Patch
+Upgrade Linux tag 4.9.272
+Feature to enable/disable blur
+Avatar in the Settings search bar
+Color QS tiles the lucid way
+GApps Updates
+New clock for lock screen
+Bluetooth improvements
+Other performance and stability improvements

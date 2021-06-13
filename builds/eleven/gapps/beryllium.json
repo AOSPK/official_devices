@@ -79,6 +79,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1623599270",
+      "filename": "Kraken-11-GApps-20210613-1249-beryllium.zip",
+      "id": "c9bfdf2e96be869e24edcfd455452d6b",
+      "size": "1262439842",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/beryllium/gapps/Kraken-11-GApps-20210613-1249-beryllium.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -100,6 +100,19 @@
     "ci_username": "muti605"
   },
   {
+    "name": "PriQue",
+    "country": "BR",
+    "github_username": "prique",
+    "telegram_username": "PriQue",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "sweet"
+      }
+    ],
+    "ci_username": "prique"
+  },
+  {
     "name": "Ronald",
     "country": "BR",
     "github_username": "",

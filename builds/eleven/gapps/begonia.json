@@ -19,6 +19,16 @@
         "romtype": "gapps",
         "android": "eleven",
         "version": "11"
+     },
+     {
+        "datetime": "1623575466",
+        "filename": "Kraken-11-GApps-20210613-0911-begonia.zip",
+        "id": "83f1c012ae3f1285a8a5cfb624aa22c9",
+        "size": "1365241589",
+        "url": "https://master.dl.sourceforge.net/project/aospk/eleven/begonia/gapps/Kraken-11-GApps-20210613-0911-begonia.zip",
+        "romtype": "gapps",
+        "android": "eleven",
+        "version": "11"
      }
   ]
 }

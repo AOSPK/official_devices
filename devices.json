@@ -231,7 +231,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_xiaomi_mojito",
       "kernel_xiaomi_mojito",
@@ -417,6 +417,26 @@
       "kernel_xiaomi_tulip",
       "vendor_xiaomi_tulip",
       "vendor_xiaomi_tulip-common"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco X3 Pro",
+    "codename": "vayu",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_vayu",
+      "device_xiaomi_vayu-prebuilt",
+      "kernel_xiaomi_vayu",
+      "vendor_xiaomi_vayu"
     ]
   },
   {

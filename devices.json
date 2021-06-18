@@ -381,6 +381,27 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Poco X3",
+    "codename": "surya",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_surya",
+      "device_xiaomi_sm6150-common",
+      "kernel_xiaomi_surya",
+      "vendor_xiaomi_surya",
+      "vendor_xiaomi_sm6150-common"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Redmi Note 10 Pro",
     "codename": "sweet",
     "xda_thread": "",

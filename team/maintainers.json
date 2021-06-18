@@ -13,6 +13,19 @@
     "ci_username": "badbumblebee"
   },
   {
+    "name": "CHRISL7",
+    "country": "BR",
+    "github_username": "chrisw444",
+    "telegram_username": "CHRISL7",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "surya"
+      }
+    ],
+    "ci_username": "chrisw444"
+  },
+  {
     "name": "Enyer",
     "country": "CO",
     "github_username": "dustxyz",

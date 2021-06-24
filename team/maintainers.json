@@ -1,5 +1,18 @@
 [
   {
+    "name": "Alexandre Rangel",
+    "country": "BR",
+    "github_username": "mamutal91",
+    "telegram_username": "mamutal91",
+    "xda_url": "https://forum.xda-developers.com/member.php?u=8414586",
+    "devices": [
+      {
+        "codename": "lmi"
+      }
+    ],
+    "ci_username": "mamutal91"
+  },
+  {
     "name": "Ankit",
     "country": "ID",
     "github_username": "badbumblebee",

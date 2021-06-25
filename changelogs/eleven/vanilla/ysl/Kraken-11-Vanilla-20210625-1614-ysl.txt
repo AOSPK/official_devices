@@ -1,0 +1,5 @@
+Flattened APEX for perfomance.
+Changed Vendor SPL to source.
+Merged tag LA.UM.9.6.2.r1-04700-89xx.0 in 4.9 kernel.
+Merged tag LA.UM.9.6.2.r1-04700-89xx.0 wlan/prima
+Upstreamed kernel to 4.9.273

@@ -8,6 +8,16 @@
       "url": "https://master.dl.sourceforge.net/project/aospk/eleven/ysl/vanilla/Kraken-11-Vanilla-20210524-1614-ysl.zip",
       "romtype": "vanilla",
       "version": "11"
+    },
+    {
+      "datetime": "1624648381",
+      "filename": "Kraken-11-Vanilla-20210625-1614-ysl.zip",
+      "id": "53ab5abccaf57994303d9c9000c2edbd",
+      "size": "760380895",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/ysl/vanilla/Kraken-11-Vanilla-20210625-1614-ysl.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -49,6 +49,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1624674055",
+      "filename": "Kraken-11-GApps-20210625-2322-lmi.zip",
+      "id": "3cc3e480cc3168a8867af9b03b2e0c57",
+      "size": "1705440736",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/lmi/gapps/Kraken-11-GApps-20210625-2322-lmi.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -198,21 +198,5 @@
       }
     ],
     "ci_username": "tioburla"
-  },
-  {
-    "name": "Vitor Nogueira",
-    "country": "BR",
-    "github_username": "vulkan-ops",
-    "telegram_username": "vulkanops",
-    "xda_url": "https://forum.xda-developers.com/member.php?u=11153911",
-    "devices": [
-      {
-        "codename": "river"
-      },
-      {
-        "codename": "ocean"
-      }
-    ],
-    "ci_username": "vulkanops"
   }
 ]

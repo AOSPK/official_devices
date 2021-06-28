@@ -39,6 +39,19 @@
     "ci_username": "chrisw444"
   },
   {
+    "name": "TusharInd007",
+    "country": "IND",
+    "github_username": "tusharind007",
+    "telegram_username": "tusharind007",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "miatoll"
+      }
+    ],
+    "ci_username": "tusharind007"
+  },
+  {
     "name": "Enyer",
     "country": "CO",
     "github_username": "dustxyz",

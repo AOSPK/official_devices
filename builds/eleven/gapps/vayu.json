@@ -9,6 +9,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1625010978",
+      "filename": "Kraken-11-GApps-20210629-2057-vayu.zip",
+      "id": "b86546173d1bea4e32142c919574146a",
+      "size": "1872402739",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/vayu/gapps/Kraken-11-GApps-20210629-2057-vayu.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

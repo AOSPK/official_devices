@@ -13,19 +13,6 @@
     "ci_username": "mamutal91"
   },
   {
-    "name": "clang11",
-    "country": "IND",
-    "github_username": "clang11",
-    "telegram_username": "clang11",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "beryllium"
-      }
-    ],
-    "ci_username": "clang11"
-  },
-  {
     "name": "CHRISL7",
     "country": "BR",
     "github_username": "chrisw444",
@@ -37,19 +24,6 @@
       }
     ],
     "ci_username": "chrisw444"
-  },
-  {
-    "name": "TusharInd007",
-    "country": "IND",
-    "github_username": "tusharind007",
-    "telegram_username": "tusharind007",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "miatoll"
-      }
-    ],
-    "ci_username": "tusharind007"
   },
   {
     "name": "Enyer",
@@ -124,6 +98,19 @@
       }
     ],
     "ci_username": "kleidione"
+  },
+  {
+    "name": "LucasAlves",
+    "country": "BR",
+    "github_username": "lucasalvesrds",
+    "telegram_username": "lucasalvesrds",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "ocean"
+      }
+    ],
+    "ci_username": "lucasalvesrds"
   },
   {
     "name": "Mustafa",
@@ -211,5 +198,31 @@
       }
     ],
     "ci_username": "tioburla"
+  },
+  {
+    "name": "TusharInd007",
+    "country": "IND",
+    "github_username": "tusharind007",
+    "telegram_username": "tusharind007",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "miatoll"
+      }
+    ],
+    "ci_username": "tusharind007"
+  },
+  {
+    "name": "clang11",
+    "country": "IND",
+    "github_username": "clang11",
+    "telegram_username": "clang11",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "beryllium"
+      }
+    ],
+    "ci_username": "clang11"
   }
 ]

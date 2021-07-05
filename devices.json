@@ -251,7 +251,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": true,
+    "deprecated": false,
     "repositories": [
       "device_motorola_ocean",
       "device_motorola_sdm632-common",

@@ -380,6 +380,90 @@
     ]
   },
   {
+    "brand": "Samsung",
+    "name": "Galaxy S10 5G",
+    "codename": "beyondx",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_beyondx",
+      "device_samsung_exynos9820-common",
+      "kernel_samsung_exynos9820",
+      "vendor_samsung_beyondx",
+      "vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10e",
+    "codename": "beyond0lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_beyond0lte",
+      "device_samsung_exynos9820-common",
+      "kernel_samsung_exynos9820",
+      "vendor_samsung_beyond0lte",
+      "vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10",
+    "codename": "beyond1lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_beyond1lte",
+      "device_samsung_exynos9820-common",
+      "kernel_samsung_exynos9820",
+      "vendor_samsung_beyond1lte",
+      "vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10+",
+    "codename": "beyond2lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_samsung_beyond2lte",
+      "device_samsung_exynos9820-common",
+      "kernel_samsung_exynos9820",
+      "vendor_samsung_beyond2lte",
+      "vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
     "brand": "Xiaomi",
     "name": "Poco X3",
     "codename": "surya",

@@ -39,6 +39,28 @@
     "ci_username": "dustxyz"
   },
   {
+    "name": "Erik Garcia (ECr34T1v3)",
+    "country": "BR",
+    "github_username": "ecr34t1v3",
+    "telegram_username": "ecr34t1v3",
+    "xda_url": "https://forum.xda-developers.com/m/ecr34t1v3.6364365",
+    "devices": [
+      {
+        "codename": "beyondx"
+      },
+      {
+        "codename": "beyond0lte"
+      },
+      {
+        "codename: "beyond1lte"
+      },
+      {
+        "codename": "beyond2lte"
+      }
+    ],
+    "ci_username": "ecr34t1v3"
+  },
+  {
     "name": "Jean Graff",
     "country": "BR",
     "github_username": "jeangraff30",

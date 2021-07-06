@@ -380,6 +380,90 @@
     ]
   },
   {
+    "brand": "Samsung",
+    "name": "Galaxy S10 5G",
+    "codename": "beyondx",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "android_device_samsung_beyondx",
+      "android_device_samsung_exynos9820-common",
+      "android_kernel_samsung_exynos9820",
+      "android_vendor_samsung_beyondx",
+      "android_vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10e",
+    "codename": "beyond0lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "android_device_samsung_beyond0lte",
+      "android_device_samsung_exynos9820-common",
+      "android_kernel_samsung_exynos9820",
+      "android_vendor_samsung_beyond0lte",
+      "android_vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10",
+    "codename": "beyond1lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "android_device_samsung_beyond1lte",
+      "android_device_samsung_exynos9820-common",
+      "android_kernel_samsung_exynos9820",
+      "android_vendor_samsung_beyond1lte",
+      "android_vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S10+",
+    "codename": "beyond2lte",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "android_device_samsung_beyond2lte",
+      "android_device_samsung_exynos9820-common",
+      "android_kernel_samsung_exynos9820",
+      "android_vendor_samsung_beyond2lte",
+      "android_vendor_samsung_exynos9820-common"
+    ]
+  },
+  {
     "brand": "Xiaomi",
     "name": "Poco X3",
     "codename": "surya",

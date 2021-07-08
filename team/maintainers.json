@@ -26,6 +26,19 @@
     "ci_username": "chrisw444"
   },
   {
+    "name": "DIEGO",
+    "country": "BR",
+    "github_username": "diegosantos1983",
+    "telegram_username": "diegosantos1983",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "potter"
+      }
+    ],
+    "ci_username": "diegosantos1983"
+  },
+  {
     "name": "Enyer",
     "country": "CO",
     "github_username": "dustxyz",

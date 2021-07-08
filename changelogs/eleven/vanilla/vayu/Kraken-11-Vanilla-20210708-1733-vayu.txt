@@ -1,0 +1,3 @@
+Fixed search bar
+Added Hycon Icons and New Search Bar
+Updated security patch July 5, 2021

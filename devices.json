@@ -1,5 +1,150 @@
 [
   {
+    "brand": "Motorola",
+    "name": "Moto G5 Plus",
+    "codename": "potter",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_potter",
+      "kernel_motorola_potter",
+      "vendor_motorola_potter"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G5S Plus",
+    "codename": "sanders",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_sanders",
+      "device_motorola_msm8953-common",
+      "kernel_motorola_msm8953",
+      "vendor_motorola_sanders",
+      "vendor_motorola_msm8953-common"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G6",
+    "codename": "ali",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_ali",
+      "device_motorola_msm8953-common",
+      "kernel_motorola_msm8953",
+      "vendor_motorola_ali",
+      "vendor_motorola_msm8953-common"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7",
+    "codename": "river",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_river",
+      "device_motorola_sdm632-common",
+      "kernel_motorola_sdm632",
+      "vendor_motorola_river",
+      "vendor_motorola_sdm632-common"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7 Plus",
+    "codename": "lake",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_lake",
+      "device_motorola_sdm660-common",
+      "vendor_motorola_lake",
+      "vendor_motorola_sdm660-common",
+      "kernel_motorola_msm8998"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto G7 Power",
+    "codename": "ocean",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_ocean",
+      "device_motorola_sdm632-common",
+      "kernel_motorola_sdm632",
+      "vendor_motorola_ocean",
+      "vendor_motorola_sdm632-common"
+    ]
+  },
+  {
+    "brand": "Motorola",
+    "name": "Moto Z2 Play",
+    "codename": "albus",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_motorola_albus",
+      "device_motorola_msm8953-common",
+      "kernel_motorola_msm8953",
+      "vendor_motorola_albus",
+      "vendor_motorola_msm8953-common"
+    ]
+  },
+  {
     "brand": "Samsung",
     "name": "Galaxy Note 9",
     "codename": "crownqltechn",
@@ -178,150 +323,6 @@
       "device_xiaomi_jasmine_sprout",
       "kernel_xiaomi_jasmine_sprout",
       "vendor_xiaomi_jasmine_sprout"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G5 Plus",
-    "codename": "potter",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_potter",
-      "kernel_motorola_potter",
-      "vendor_motorola_potter"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G5S Plus",
-    "codename": "sanders",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_sanders",
-      "device_motorola_msm8953-common",
-      "kernel_motorola_msm8953",
-      "vendor_motorola_sanders",
-      "vendor_motorola_msm8953-common"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G6",
-    "codename": "ali",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_ali",
-      "device_motorola_msm8953-common",
-      "kernel_motorola_msm8953",
-      "vendor_motorola_ali",
-      "vendor_motorola_msm8953-common"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G7",
-    "codename": "river",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_river",
-      "device_motorola_sdm632-common",
-      "kernel_motorola_sdm632",
-      "vendor_motorola_river",
-      "vendor_motorola_sdm632-common"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G7 Plus",
-    "codename": "lake",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_lake",
-      "device_motorola_sdm660-common",
-      "vendor_motorola_lake",
-      "vendor_motorola_sdm660-common",
-      "kernel_motorola_msm8998"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto G7 Power",
-    "codename": "ocean",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_ocean",
-      "device_motorola_sdm632-common",
-      "kernel_motorola_sdm632",
-      "vendor_motorola_ocean",
-      "vendor_motorola_sdm632-common"
-    ]
-  },
-  {
-    "brand": "Motorola",
-    "name": "Moto Z2 Play",
-    "codename": "albus",
-    "xda_thread": "",
-    "supported_versions": [
-      "eleven"
-    ],
-    "supported_types": [
-      "gapps",
-      "vanilla"
-    ],
-    "deprecated": false,
-    "repositories": [
-      "device_motorola_albus",
-      "device_motorola_msm8953-common",
-      "kernel_motorola_msm8953",
-      "vendor_motorola_albus",
-      "vendor_motorola_msm8953-common"
     ]
   },
   {

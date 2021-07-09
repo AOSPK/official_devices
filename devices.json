@@ -145,6 +145,27 @@
     ]
   },
   {
+    "brand": "OnePlus",
+    "name": "5T",
+    "codename": "dumpling",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_oneplus_dumpling",
+      "device_oppo_common",
+      "device_oneplus_msm8998-common",
+      "kernel_oneplus_msm8998",
+      "vendor_oneplus_dumpling"
+    ]
+  },
+  {
     "brand": "Samsung",
     "name": "Galaxy Note 9",
     "codename": "crownqltechn",

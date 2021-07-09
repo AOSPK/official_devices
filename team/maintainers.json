@@ -74,6 +74,19 @@
     "ci_username": "ecr34t1v3"
   },
   {
+    "name": "Esrom Cattaneo",
+    "country": "BR",
+    "github_username": "esromtech",
+    "telegram_username": "esromtech",
+    "xda_url": "https://forum.xda-developers.com/m/esromtech.4730968/",
+    "devices": [
+      {
+        "codename": "dumpling"
+      }
+    ],
+    "ci_username": "esrom"
+  },
+  {
     "name": "Jean Graff",
     "country": "BR",
     "github_username": "jeangraff30",

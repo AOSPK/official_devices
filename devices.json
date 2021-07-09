@@ -403,7 +403,6 @@
     "deprecated": false,
     "repositories": [
       "device_xiaomi_vayu",
-      "device_xiaomi_vayu-prebuilt",
       "kernel_xiaomi_vayu",
       "vendor_xiaomi_vayu"
     ]

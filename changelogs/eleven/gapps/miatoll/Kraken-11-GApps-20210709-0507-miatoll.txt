@@ -1,0 +1,6 @@
+Initial Official Build 
+July Security Patch 
+Added Xiaomi Parts 
+Added Miui Camera 
+Etherious Kernel by default 
+Safety net passed by default

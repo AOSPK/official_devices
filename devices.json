@@ -330,6 +330,25 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Mi 8 Lite",
+    "codename": "platina",
+    "xda_thread": "",
+    "supported_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_platina",
+      "kernel_xiaomi_sdm660",
+      "vendor_xiaomi_platina"
+    ]
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Mi A2",
     "codename": "jasmine_sprout",
     "xda_thread": "",

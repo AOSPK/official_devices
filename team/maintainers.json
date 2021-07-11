@@ -13,6 +13,19 @@
     "ci_username": "mamutal91"
   },
   {
+    "name": "Allan Pereira",
+    "country": "BR",
+    "github_username": "Allansouzadk",
+    "telegram_username": "Allan_dk",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "platina"
+      }
+    ],
+    "ci_username": "Allansouzadk"
+  },
+  {
     "name": "CHRISL7",
     "country": "BR",
     "github_username": "chrisw444",

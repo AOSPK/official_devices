@@ -9,6 +9,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1626085866",
+      "filename": "Kraken-11-GApps-20210712-0732-sweet.zip",
+      "id": "3ff883f416582b6836c749e1add92576",
+      "size": "1154725502",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/sweet/gapps/Kraken-11-GApps-20210712-0732-sweet.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

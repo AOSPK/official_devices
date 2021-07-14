@@ -1,0 +1,16 @@
+Initial Build Official 
+Device Changelog 
+Enforcing user build 
+Fix all Selinux Denials 
+Fix TetheringOverlay package 
+Refresh Rate: Add support kernel idle timer (Based on Coral and Redfin) 
+Refresh Rate: reduce the milliseconds of some services to avoid some fps drop and crashes 
+Use some QTI stuff (Bluetooth, Vibrator) 
+Update and organize graphics props 
+Update July Fingerprint From Redfin RQ3A.210705.001 
+Update blobs from MIUI V12.0.8.0.RJGEUXM & MIUI V12.0.1.0.RJGMIXM 
+Update NFC configs from MIUI 12.0.8 
+Update media codecs From LA.UM.9.1.r1-10200-SMxxx0.0 
+Update Media Hals From LA.UM.9.1.r1-10200-SMxxx0.0 
+Update Display Hals From LA.UM.9.1.r1-10200-SMxxx0.0 
+Update Audio Hals From LA.UM.9.1.r1-10600-SMxxx0.0

@@ -9,6 +9,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1626390722",
+      "filename": "Kraken-11-GApps-20210715-2013-potter.zip",
+      "id": "fab3d8dd40a7af06966793f9a7dca1a2",
+      "size": "1189256938",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/potter/gapps/Kraken-11-GApps-20210715-2013-potter.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

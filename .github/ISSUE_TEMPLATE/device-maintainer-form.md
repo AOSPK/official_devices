@@ -2,7 +2,7 @@
 name: Device maintainer form
 about: Apply to be a maintainer at Kraken here
 title: New maintainer
-assignees: [mamutal91, jeangraff30, kleidione, vulkan-ops]
+assignees: [mamutal91, jeangraff30, kleidione, jorg3lucas, chrisw444]
 ---
 
 ## Device you want to apply for

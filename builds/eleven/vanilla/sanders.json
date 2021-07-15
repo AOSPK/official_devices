@@ -9,6 +9,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1626358842",
+      "filename": "Kraken-11-Vanilla-20210715-1122-sanders.zip",
+      "id": "01bf6d613503faab8b1a7accb04d3a4d",
+      "size": "711929296",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/sanders/vanilla/Kraken-11-Vanilla-20210715-1122-sanders.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

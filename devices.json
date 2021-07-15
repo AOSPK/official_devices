@@ -319,7 +319,8 @@
       "eleven"
     ],
     "supported_types": [
-      "gapps"
+      "gapps",
+      "vanilla"
     ],
     "deprecated": false,
     "repositories": [

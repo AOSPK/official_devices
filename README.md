@@ -46,8 +46,8 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | devices | Array with the device and the respective version that you maintain | Yes |
 | ci_username | Alphanumeric username, to be used in our CI | Yes |
 
-### 4. Device Image
+### 4. Device Banner
 
-We need a .png image with transparent background with sane quality with at least the device front being shown for our website. Those will go to the images folder with the filename being called as <device_codename>.png.
+Our banners are automatically generated, and you can use them to publish in communities on your device. [Download the image here!](https://github.com/AOSPK/official_devices/tree/master/images/banners)
 
-If you agree with everything, please [fill this form](https://github.com/AOSPK/official_devices/issues/new/choose)
+If you agree with everything, please [**fill this form**](https://github.com/AOSPK/official_devices/issues/new/choose)

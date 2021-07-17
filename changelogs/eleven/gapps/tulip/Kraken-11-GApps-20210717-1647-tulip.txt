@@ -1,0 +1,7 @@
+Clean flash and format data required
+Switched to LOS based FBE trees
+Video record quality improved
+Updated audio configs from whyred
+Added minimal xiaomi parts
+Improved performance and Stability
+Misc Changes and Fixes

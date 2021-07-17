@@ -29,6 +29,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1626551178",
+      "filename": "Kraken-11-GApps-20210717-1647-tulip.zip",
+      "id": "f3e399b62b21780fe080c2f83a341f4a",
+      "size": "1132763809",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/tulip/gapps/Kraken-11-GApps-20210717-1647-tulip.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

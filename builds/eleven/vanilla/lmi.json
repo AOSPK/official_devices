@@ -58,6 +58,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1626652382",
+      "filename": "Kraken-11-Vanilla-20210718-2054-lmi.zip",
+      "id": "20e74de03e7fc8a4350954f41d27ae46",
+      "size": "1162224323",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/lmi/vanilla/Kraken-11-Vanilla-20210718-2054-lmi.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

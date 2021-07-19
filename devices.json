@@ -445,8 +445,10 @@
     "deprecated": false,
     "repositories": [
       "device_xiaomi_vayu",
+      "device_xiaomi_sm8150-common",
       "kernel_xiaomi_vayu",
-      "vendor_xiaomi_vayu"
+      "vendor_xiaomi_vayu",
+      "vendor_xiaomi_sm8150-common"
     ]
   },
   {

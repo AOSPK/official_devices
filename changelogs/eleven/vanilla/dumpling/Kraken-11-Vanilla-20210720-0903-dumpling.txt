@@ -1,0 +1,6 @@
+Update sources ROM kraken 
+Upstream kernel Linux 4.4.275 
+Upstream kernel sources CAF tag LA.UM.9.2.r1-03400-SDMxx0.0 
+Drop audio_amplifier 
+Update Wifi PowerSaveOffload 
+Drop OVERRIDE_RS_DRIVER and adreno libs.

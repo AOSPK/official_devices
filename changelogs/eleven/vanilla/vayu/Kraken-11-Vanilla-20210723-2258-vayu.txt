@@ -1,0 +1,6 @@
+Clean flash required
+Based on OSS vendor
+Ships with Etherious Kernel v3
+SELinux status is Enforcing
+SafetyNet passes out of the box
+Suggested firmware: 12.5.2.0 Global

@@ -19,6 +19,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1627169360",
+      "filename": "Kraken-11-GApps-20210724-2030-dumpling.zip",
+      "id": "e5d73fd19b73a3953641160b18ac57ff",
+      "size": "1105423454",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/dumpling/gapps/Kraken-11-GApps-20210724-2030-dumpling.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

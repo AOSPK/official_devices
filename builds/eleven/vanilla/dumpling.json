@@ -19,6 +19,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1627171514",
+      "filename": "Kraken-11-Vanilla-20210724-2106-dumpling.zip",
+      "id": "a05cd75f4dc77fa4bb628edd9228d8e9",
+      "size": "746418259",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/dumpling/vanilla/Kraken-11-Vanilla-20210724-2106-dumpling.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

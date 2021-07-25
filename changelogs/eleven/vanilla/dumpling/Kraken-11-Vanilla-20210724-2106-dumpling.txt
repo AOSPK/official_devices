@@ -1,0 +1,6 @@
+Update source ROM Kraken 
+Upstream kernel to 4.4.276 
+bluetooth: Don't define custom SEPS 
+bluetooth: Simplify product name detection 
+Enable ipsec_tunnel feature 
+Fixed : CTS issue due to ipsec_tunnel feature

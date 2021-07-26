@@ -19,6 +19,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1627337229",
+      "filename": "Kraken-11-Vanilla-20210726-1908-potter.zip",
+      "id": "305826e74b492d1d896472d2cd758cfd",
+      "size": "718823242",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/potter/vanilla/Kraken-11-Vanilla-20210726-1908-potter.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -39,6 +39,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628119524",
+      "filename": "Kraken-11-Vanilla-20210804-2029-tulip.zip",
+      "id": "7514800e22c992baf803d477c667c79d",
+      "size": "778228109",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/tulip/vanilla/Kraken-11-Vanilla-20210804-2029-tulip.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

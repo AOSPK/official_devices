@@ -1,0 +1,6 @@
+August security patch 
+Make colored Statusbar Icons optional 
+Sync icons from OOS 
+Switch to Moonlight kernel 
+Improved performance and Stability 
+Misc changes and fixes

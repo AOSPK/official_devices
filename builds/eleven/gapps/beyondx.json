@@ -9,6 +9,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628212916",
+      "filename": "Kraken-11-GApps-20210805-2225-beyondx.zip",
+      "id": "2788b3eab314415ab81f8b5f302d681c",
+      "size": "1084649991",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/beyondx/gapps/Kraken-11-GApps-20210805-2225-beyondx.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

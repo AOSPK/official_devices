@@ -9,6 +9,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628275887",
+      "filename": "Kraken-11-Vanilla-20210806-1555-beyond1lte.zip",
+      "id": "0938308728a32e637d0b14e073a92969",
+      "size": "727218640",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/beyond1lte/vanilla/Kraken-11-Vanilla-20210806-1555-beyond1lte.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -55,6 +55,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628315523",
+      "filename": "Kraken-11-Vanilla-20210807-0255-beryllium.zip",
+      "id": "338b43878b1bf8d04401144dacec05fc",
+      "size": "889892658",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/beryllium/vanilla/Kraken-11-Vanilla-20210807-0255-beryllium.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

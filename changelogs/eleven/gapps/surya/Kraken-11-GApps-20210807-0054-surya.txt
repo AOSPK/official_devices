@@ -1,0 +1,21 @@
+Device changelog: 
+Declare use for AOSP SURFACEFLINGER 
+Enable app launch prefetching 
+Fingerprint: drop FOD modules (surya does not have FOD support) 
+Migrate to Xiaomi power HAL AIDL 
+Overlay: Update power profile to match framework change 
+Rework refresh rate & display props (leave all refresh rate props in one place) 
+Rootdir: tune zram performance 
+Update media codecs From LA.UM.9.1.r1-10600-SMxxx0.0 
+Update audio and display blobs to QSSI(11600) & MANNAR(05200) 
+Update August Fingerprint From Redfin RQ3A.210805.001 
+PocoParts changelog: 
+Initialize High Touch Polling Rate support 
+Drop Selinux toggle 
+Drop LogTile 
+Rearrange the menu 
+Kernel changelog: 
+Use Optimus Drunk v11.30 base 
+Add haptic level adjustment 
+Update xiaomi touchscreen drives 
+Touchscreen drives: Add a sysfs node to bump touch sample rate (required for increase touch responsiveness Function)

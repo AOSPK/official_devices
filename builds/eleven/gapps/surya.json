@@ -9,6 +9,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628308245",
+      "filename": "Kraken-11-GApps-20210807-0054-surya.zip",
+      "id": "3cf4fd2818456666339b7571aa47b812",
+      "size": "1365935905",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/surya/gapps/Kraken-11-GApps-20210807-0054-surya.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

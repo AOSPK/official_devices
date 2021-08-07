@@ -1,0 +1,6 @@
+~ Merge tag 'LA.UM.9.2.r1-03500-SDMxx0.0' 
+~ Add overlay notch bar killer 
+~ enable zram 
+~ Add powerhint from Common
+~ fix apex 
+~ Use vibration pattern from pixel 2 

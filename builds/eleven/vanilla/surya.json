@@ -19,6 +19,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628291483",
+      "filename": "Kraken-11-Vanilla-20210806-2015-surya.zip",
+      "id": "04837f1e9466a6a3cc4cbb5f33f5c5fa",
+      "size": "1005142425",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/surya/vanilla/Kraken-11-Vanilla-20210806-2015-surya.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

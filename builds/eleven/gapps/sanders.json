@@ -19,6 +19,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628397981",
+      "filename": "Kraken-11-GApps-20210808-0151-sanders.zip",
+      "id": "59b5aab8b999a0a00b54558fc476c72e",
+      "size": "1059746347",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/sanders/gapps/Kraken-11-GApps-20210808-0151-sanders.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

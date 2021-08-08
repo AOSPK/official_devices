@@ -9,6 +9,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628406322",
+      "filename": "Kraken-11-Vanilla-20210808-0410-ocean.zip",
+      "id": "50e944f605bf774431b29c78dc8d2bbd",
+      "size": "667642686",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/ocean/vanilla/Kraken-11-Vanilla-20210808-0410-ocean.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

@@ -79,6 +79,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628415659",
+      "filename": "Kraken-11-GApps-20210808-0645-ocean.zip",
+      "id": "0849c9df593047925b6c55a661cc441c",
+      "size": "988363282",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/ocean/gapps/Kraken-11-GApps-20210808-0645-ocean.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

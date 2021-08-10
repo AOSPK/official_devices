@@ -39,6 +39,16 @@
       "romtype": "vanilla",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628530932",
+      "filename": "Kraken-11-Vanilla-20210809-1451-vayu.zip",
+      "id": "638eef02be15ea93bce51ed4fa200bb5",
+      "size": "1113993919",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/vayu/vanilla/Kraken-11-Vanilla-20210809-1451-vayu.zip",
+      "romtype": "vanilla",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

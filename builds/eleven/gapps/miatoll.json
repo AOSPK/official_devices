@@ -19,6 +19,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628665381",
+      "filename": "Kraken-11-GApps-20210811-0411-miatoll.zip",
+      "id": "4d157ef2eb003868a3edaf9d2b050e2c",
+      "size": "1665918890",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/miatoll/gapps/Kraken-11-GApps-20210811-0411-miatoll.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

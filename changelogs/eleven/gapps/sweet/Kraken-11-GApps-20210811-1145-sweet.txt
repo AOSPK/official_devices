@@ -1,0 +1,1 @@
+Improved Vibrations Added cutout around camera when in use Disabled SIM is HD Capable notification Cleaned up mobile network settings Fixed a few cases where opening the Dirac menu would crash Fixed the "Charging rapidly" text on the lockscreen Nuked DC dimming due to issues with brightness

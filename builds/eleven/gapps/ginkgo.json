@@ -59,6 +59,16 @@
       "romtype": "gapps",
       "android": "eleven",
       "version": "11"
+    },
+    {
+      "datetime": "1628944298",
+      "filename": "Kraken-11-GApps-20210814-0938-ginkgo.zip",
+      "id": "fc30439875615d3e0ded427dd3759607",
+      "size": "1247411603",
+      "url": "https://master.dl.sourceforge.net/project/aospk/eleven/ginkgo/gapps/Kraken-11-GApps-20210814-0938-ginkgo.zip",
+      "romtype": "gapps",
+      "android": "eleven",
+      "version": "11"
     }
   ]
 }

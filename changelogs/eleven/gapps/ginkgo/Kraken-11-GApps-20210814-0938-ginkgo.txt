@@ -1,0 +1,10 @@
+Upstreamed kernel to v4.14.243 (android-4.14-stable) 
+Fixed random reboots during widevine L1 playback 
+Removed widevine firmware hack, R firmware is mandatory 
+Boost I/O during bootup to improve boot speed 
+Boost CPU during wake for faster faceunlock 
+Increased default f2fs checkpoint interval 
+Increased hispeed freq for big cluster 
+Disabled conservative PL boost 
+Reverted AOSP's old VM settings tweaks 
+Misc optimizations and fixes in kernel 

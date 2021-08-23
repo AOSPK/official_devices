@@ -1,0 +1,12 @@
+Added Dirac support 
+Enabled AOSP surfaceflinger
+Mic issues in apps like WhatsApp fixed 
+Enabled fluence voice recording for google voice recoder 
+Introduced memory management tweaks
+Enabled IORap app launch prefetching for better app launch time 
+Wired headphone issues fixed
+Enabled voLTE/voWIFI/ViLTE for entire 460 mcc
+Added proper support for 5GHz hotspot 
+Moonlight kernel upstreamed to 4.4.281
+Improved performance and Stability
+Misc changes and fixes

@@ -666,5 +666,24 @@
       "kernel_xiaomi_ysl",
       "vendor_xiaomi_ysl"
     ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi A2 Lite",
+    "codename": "daisy",
+    "xda_thread": "",
+    "supportted_versions": [
+      "eleven"
+    ],
+    "supported_types": [
+      "gapps",
+      "vanilla"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_daisy",
+      "kernel_xiaomi_msm8953",
+      "vendor_xiaomi_daisy"
+    ]
   }
 ]

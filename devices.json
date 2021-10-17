@@ -398,7 +398,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_xiaomi_beryllium",
       "device_xiaomi_sdm845-common",

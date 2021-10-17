@@ -287,16 +287,16 @@
     "ci_username": "tusharind007"
   },
   {
-    "name": "clang11",
-    "country": "IND",
-    "github_username": "clang11",
-    "telegram_username": "clang11",
+    "name": "",
+    "country": "",
+    "github_username": "",
+    "telegram_username": "",
     "xda_url": "",
     "devices": [
       {
         "codename": "beryllium"
       }
     ],
-    "ci_username": "clang11"
+    "ci_username": ""
   }
 ]

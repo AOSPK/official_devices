@@ -54,15 +54,15 @@
   {
     "name": "Enyer",
     "country": "CO",
-    "github_username": "notreallydust",
-    "telegram_username": "NotReallyDust",
+    "github_username": "clawside",
+    "telegram_username": "dustxyz",
     "xda_url": "",
     "devices": [
       {
         "codename": "ysl"
       }
     ],
-    "ci_username": "dustxyz"
+    "ci_username": "clawside"
   },
   {
     "name": "Erik Garcia (ECr34T1v3)",

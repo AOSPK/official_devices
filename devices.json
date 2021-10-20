@@ -413,7 +413,8 @@
     "codename": "lmi",
     "xda_thread": "https://forum.xda-developers.com/t/rom-11-lmi-the-kraken-project-aospk.4306243/",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -434,7 +435,8 @@
     "codename": "surya",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -455,7 +457,8 @@
     "codename": "vayu",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -514,7 +517,8 @@
     "codename": "mojito",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -535,7 +539,8 @@
     "codename": "sweet",
     "xda_thread": "",
     "supported_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",
@@ -674,7 +679,8 @@
     "codename": "ysl",
     "xda_thread": "",
     "supportted_versions": [
-      "eleven"
+      "eleven",
+      "twelve"
     ],
     "supported_types": [
       "gapps",

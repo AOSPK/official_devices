@@ -485,7 +485,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_xiaomi_santoni",
       "kernel_xiaomi_santoni",

@@ -278,19 +278,6 @@
     "ci_username": "nyouta"
   },
   {
-    "name": "TioBurla",
-    "country": "BR",
-    "github_username": "tioburla",
-    "telegram_username": "TioBurla",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "santoni"
-      }
-    ],
-    "ci_username": "tioburla"
-  },
-  {
     "name": "TusharInd007",
     "country": "IND",
     "github_username": "tusharind007",

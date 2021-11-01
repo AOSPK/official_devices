@@ -299,5 +299,18 @@
       }
     ],
     "ci_username": "tusharind007"
+  },
+  {
+    "name": "Matheus Vieira",
+    "country": "BR",
+    "github_username": "matt0301",
+    "telegram_username": "matt0301",
+    "xda_url": "https://forum.xda-developers.com/m/matt0301.3890350/",
+    "devices": [
+      {
+        "codename": "hotdogb"
+      }
+    ],
+    "ci_username": "matt0301"
   }
 ]

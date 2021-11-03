@@ -312,5 +312,18 @@
       }
     ],
     "ci_username": "matt0301"
+  },
+  {
+    "name": "Cristian Vázquez",
+    "country": "SP",
+    "github_username": "cristianvaz",
+    "telegram_username": "cristianvaz",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "alioth"
+      }
+    ],
+    "ci_username": "cristianvaz"
   }
 ]

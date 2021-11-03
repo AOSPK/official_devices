@@ -723,5 +723,25 @@
       "vendor_oneplus_sm8150-common",
       "hardware_oneplus"
     ]
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Poco F3 / Xiaomi Mi 11X / Redmi K40",
+    "codename": "alioth",
+    "xda_thread": "",
+    "supportted_versions": [
+      "twelve"
+    ],
+    "supported_types": [
+      "gapps"
+    ],
+    "deprecated": false,
+    "repositories": [
+      "device_xiaomi_alioth",
+      "device_xiaomi_sm8250-common",
+      "kernel_xiaomi_sm8250",
+      "vendor_xiaomi_alioth",
+      "vendor_xiaomi_sm8250-common"
+    ]
   }
 ]

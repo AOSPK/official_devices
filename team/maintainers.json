@@ -41,19 +41,6 @@
     "core_member": true
   },
   {
-    "name": "DIEGO",
-    "country": "BR",
-    "github_username": "diegosantos1983",
-    "telegram_username": "diegosantos1983",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "potter"
-      }
-    ],
-    "ci_username": "diegosantos1983"
-  },
-  {
     "name": "Enyer",
     "country": "CO",
     "github_username": "Clawside",
@@ -161,20 +148,6 @@
     "ci_username": "zezinhorey"
   },
   {
-    "name": "Kleidione",
-    "country": "BR",
-    "github_username": "kleidione",
-    "telegram_username": "kleidione",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "vayu"
-      }
-    ],
-    "ci_username": "kleidione",
-    "core_member": true
-  },
-  {
     "name": "Lazare Kikaleishvili",
     "country": "GE",
     "github_username": "LmaoDevice",
@@ -227,22 +200,6 @@
     "ci_username": "prique"
   },
   {
-    "name": "Ronald",
-    "country": "BR",
-    "github_username": "ronald-b",
-    "telegram_username": "RonaldSt",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "jasmine_sprout"
-      },
-      {
-        "codename": "wayne"
-      }
-    ],
-    "ci_username": "ronaldst"
-  },
-  {
     "name": "Royal King",
     "country": "IN",
     "github_username": "DEVJAYDEEP",
@@ -267,25 +224,6 @@
       }
     ],
     "ci_username": "thepsambit"
-  },
-  {
-    "name": "Samuel",
-    "country": "BR",
-    "github_username": "Nyoutaaa",
-    "telegram_username": "Nyoutaaa",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "starqltechn"
-      },
-      {
-        "codename": "star2qltechn"
-      },
-      {
-        "codename": "crownqltechn"
-      }
-    ],
-    "ci_username": "nyouta"
   },
   {
     "name": "TusharInd007",

@@ -17,6 +17,8 @@ You must fulfill the following requirements before applying:
 
 You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
 
+If you agree with everything, and want to apply [**fill this form**](https://github.com/AOSPK/official_devices/issues/new/choose)
+
 ### 2. OTA and Hosting
 
 Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build is tested, you may release it.
@@ -49,5 +51,3 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 ### 4. Device Banner
 
 Our banners are automatically generated, and you can use them to publish in communities on your device. [Download the image here!](https://github.com/AOSPK/official_devices/tree/master/images/banners)
-
-If you agree with everything, please [**fill this form**](https://github.com/AOSPK/official_devices/issues/new/choose)

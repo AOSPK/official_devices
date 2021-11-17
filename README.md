@@ -9,11 +9,11 @@ Before you apply to add your device into our list of official devices, you shoul
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/AOSPK/docs/blob/master/maintainers_requirements.md)
+- [Maintainers requirements](https://github.com/AOSPK/official_devices/blob/master/docs/maintainers_requirements.md)
 
-- [Device requirements](https://github.com/AOSPK/docs/blob/master/device_requirements.md)
+- [Device requirements](https://github.com/AOSPK/official_devices/blob/master/docs/device_requirements.md)
 
-- [Maintainers' code of conduct](https://github.com/AOSPK/docs/blob/master/maintainers_code_of_conduct.md)
+- [Maintainers' code of conduct](https://github.com/AOSPK/official_devices/blob/master/docs/maintainers_code_of_conduct.md)
 
 You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
 

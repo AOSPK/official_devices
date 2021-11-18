@@ -633,7 +633,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_xiaomi_ginkgo",
       "kernel_xiaomi_ginkgo",

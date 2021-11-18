@@ -135,19 +135,6 @@
     "ci_username": "jorgelucas"
   },
   {
-    "name": "José Henrique",
-    "country": "BR",
-    "github_username": "ZezinhoRey",
-    "telegram_username": "zezinh0",
-    "xda_url": "",
-    "devices": [
-      {
-        "codename": "ginkgo"
-      }
-    ],
-    "ci_username": "zezinhorey"
-  },
-  {
     "name": "Lazare Kikaleishvili",
     "country": "GE",
     "github_username": "LmaoDevice",

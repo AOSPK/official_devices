@@ -726,7 +726,7 @@
   },
   {
     "brand": "Xiaomi",
-    "name": "Xiaomi Poco F3 / Xiaomi Mi 11X / Redmi K40",
+    "name": "Poco F3 / Mi 11X / Redmi K40",
     "codename": "alioth",
     "xda_thread": "",
     "supportted_versions": [
@@ -739,7 +739,7 @@
     "repositories": [
       "device_xiaomi_alioth",
       "device_xiaomi_sm8250-common",
-      "kernel_xiaomi_sm8250",
+      "kernel_xiaomi_alioth",
       "vendor_xiaomi_alioth",
       "vendor_xiaomi_sm8250-common"
     ]

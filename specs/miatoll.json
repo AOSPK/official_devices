@@ -9,7 +9,7 @@
       }
     },
     {
-      "Redmi Note 9S/9 Pro/Pro Max": {
+      "Redmi Note 9S/9 Pro/Pro Max/10 Lite": {
         "capacity": 5020,
         "removable": true,
         "tech": "Li-Po"
@@ -25,7 +25,7 @@
   "cameras": [
     {
       "flash": "LED",
-      "info": "48 MP (Redmi Note 9S / POCO M2 Pro) / 64MP (Redmi Note 9 Pro/Pro Max)"
+      "info": "48 MP (Redmi Note 9S / 10 Lite / POCO M2 Pro) / 64MP (Redmi Note 9 Pro/Pro Max)"
     },
     {
       "flash": "LED",
@@ -52,7 +52,7 @@
   "depth": "8.8 mm (0.35 in)",
   "gpu": "Adreno 618",
   "height": "165.8 mm (6.53 in)",
-  "name": "Redmi Note 9S/9 Pro/Pro Max / POCO M2 Pro",
+  "name": "Redmi Note 9S/9 Pro/Pro Max / 10 Lite / POCO M2 Pro",
   "network": [
     "2G GSM",
     "2G CDMA",

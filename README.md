@@ -9,13 +9,15 @@ Before you apply to add your device into our list of official devices, you shoul
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/AOSPK/docs/blob/master/maintainers_requirements.md)
+- [Maintainers requirements](https://github.com/AOSPK/official_devices/blob/master/docs/maintainers_requirements.md)
 
-- [Device requirements](https://github.com/AOSPK/docs/blob/master/device_requirements.md)
+- [Device requirements](https://github.com/AOSPK/official_devices/blob/master/docs/device_requirements.md)
 
-- [Maintainers' code of conduct](https://github.com/AOSPK/docs/blob/master/maintainers_code_of_conduct.md)
+- [Maintainers' code of conduct](https://github.com/AOSPK/official_devices/blob/master/docs/maintainers_code_of_conduct.md)
 
 You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
+
+If you agree with everything, and want to apply [**fill this form**](https://github.com/AOSPK/official_devices/issues/new/choose)
 
 ### 2. OTA and Hosting
 
@@ -49,5 +51,3 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 ### 4. Device Banner
 
 Our banners are automatically generated, and you can use them to publish in communities on your device. [Download the image here!](https://github.com/AOSPK/official_devices/tree/master/images/banners)
-
-If you agree with everything, please [**fill this form**](https://github.com/AOSPK/official_devices/issues/new/choose)

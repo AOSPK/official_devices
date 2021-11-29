@@ -1,0 +1,53 @@
+Thread title: [ROM][11][DEVICE] The Kraken Project [AOSPK]
+
+[CENTER]
+[img]https://github.com/AOSPK/official_devices/raw/master/images/banners/DEVICENAME.png[/img]
+
+[SIZE="5"][b][color=#441a9d]Kraken for DeviceName [codename][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#441a9d]What is this?[/color][/b][/SIZE]
+[SIZE="3"]Kraken is an AOSP based ROM, made for the best pure Android experience!
+
+Based on Android 11
+[/SIZE]
+
+[SIZE="4"][b][color=#441a9d]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wi-Fi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FM radio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#441a9d]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]Choose your preferred version, GApps or Vanilla[/B][/SIZE]
+[SIZE="3"][url="https://download.aospk.org/DEVICE_CODENAME/"][b][color=#441a9d][u]Download from Kraken website[/u][/color][/b][/url][/SIZE]
+
+[SIZE=4][B][COLOR=#441a9d]Donate[/COLOR][/B][/SIZE]
+[SIZE=3][URL='https://bit.ly/mamutal91_paypal'][B][COLOR=#B87FED][U]PayPal[/U][/COLOR][/B][/URL]
+[URL='https://bit.ly/mamutal91_buymeacoffe'][B][COLOR=#FFAE19][U]Buy Me a Coffee[/U][/COLOR][/B][/URL][/SIZE]
+
+[SIZE=4][B][COLOR=#441a9d]Stay tuned[/COLOR][/B][/SIZE]
+[SIZE=3][URL='https://t.me/AOSPKNews'][B][COLOR=#8A2BE2][U]Telegram channel[/U][/COLOR][/B][/URL]
+[URL='https://t.me/AOSPKChat'][B][COLOR=#8A2BE2][U]Telegram group[/U][/COLOR][/B][/URL][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 11.0.0_r39
+[*][b]Security patch level:[/b] July 2021
+[*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
+[*][b]Device Source code:[/b] [url=https://github.com/AOSPK-Devices]https://github.com/AOSPK-Devices[/url]
+[*][b]Source code:[/b] [url=https://github.com/AOSPK]https://github.com/AOSPK[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/m/mamutal91.8414586/]mamutal91[/url]
+[/list][/SIZE][/LEFT]

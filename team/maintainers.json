@@ -103,22 +103,6 @@
     "ci_username": "giostocco"
   },
   {
-    "name": "Jean Graff",
-    "country": "BR",
-    "github_username": "jeangraff30",
-    "telegram_username": "jeangraff30",
-    "xda_url": "https://forum.xda-developers.com/m/jeangraff30.9466600",
-    "devices": [
-      {
-        "codename": "ali"
-      },
-      {
-        "codename": "albus"
-      }
-    ],
-    "ci_username": "jeangraff30"
-  },
-  {
     "name": "Jorge Lucas",
     "country": "BR",
     "github_username": "jorg3lucas",

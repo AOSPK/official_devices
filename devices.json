@@ -51,7 +51,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_motorola_ali",
       "device_motorola_msm8953-common",
@@ -135,7 +135,7 @@
       "gapps",
       "vanilla"
     ],
-    "deprecated": false,
+    "deprecated": true,
     "repositories": [
       "device_motorola_albus",
       "device_motorola_msm8953-common",

@@ -19,6 +19,16 @@
       "romtype": "gapps",
       "android": "twelve",
       "version": "12"
+    },
+    {
+      "datetime": "1642877315",
+      "filename": "Kraken-12-GApps-20220206-1247-lmi.zip",
+      "id": "faa1ce9414b303907066e90b566f853c",
+      "size": "1996488610",
+      "url": "https://master.dl.sourceforge.net/project/aospk/twelve/lmi/gapps/Kraken-12-GApps-20220206-1247-lmi.zip",
+      "romtype": "gapps",
+      "android": "twelve",
+      "version": "12"
     }
   ]
 }

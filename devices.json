@@ -630,10 +630,9 @@
       "twelve"
     ],
     "supported_types": [
-      "gapps",
-      "vanilla"
+      "gapps"
     ],
-    "deprecated": true,
+    "deprecated": false,
     "repositories": [
       "device_xiaomi_ginkgo",
       "kernel_xiaomi_ginkgo",

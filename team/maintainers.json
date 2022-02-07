@@ -234,5 +234,18 @@
       }
     ],
     "ci_username": "cristianvaz"
+  },
+  {
+    "name": "WisnuArdhi34",
+    "country": "ID",
+    "github_username": "WisnuArdhi28",
+    "telegram_username": "WisnuArdhi34",
+    "xda_url": "",
+    "devices": [
+      {
+        "codename": "ginkgo"
+      }
+    ],
+    "ci_username": "alokgemink"
   }
 ]
